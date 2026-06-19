@@ -1,0 +1,48 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+65,Paris,BNP Paribas Masters,28/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Albot R.,Basilashvili N.,50,26,1022,1485,6,3,6,2,,,,,,,2,0,Completed,2.25,1.57,2.56,1.58,2.6,1.71,2.39,1.57
+65,Paris,BNP Paribas Masters,28/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Cilic M.,Hurkacz H.,24,37,1500,1198,7,6,6,4,,,,,,,2,0,Completed,1.57,2.25,1.51,2.77,1.67,2.91,1.55,2.47
+65,Paris,BNP Paribas Masters,28/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Struff J.L.,Nishioka Y.,36,72,1200,787,4,6,7,5,6,2,,,,,2,1,Completed,1.53,2.37,1.59,2.52,1.6,2.7,1.54,2.48
+65,Paris,BNP Paribas Masters,28/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Verdasco F.,Coric B.,49,25,1025,1495,3,6,6,4,6,3,,,,,2,1,Completed,2.1,1.66,2.09,1.83,2.17,1.87,2.04,1.77
+65,Paris,BNP Paribas Masters,28/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Raonic M.,Norrie C.,32,57,1350,960,6,3,6,2,,,,,,,2,0,Completed,1.53,2.37,1.62,2.45,1.65,2.52,1.58,2.39
+65,Paris,BNP Paribas Masters,28/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Chardy J.,Querrey S.,65,47,885,1065,5,7,6,3,7,5,,,,,2,1,Completed,2,1.72,1.98,1.93,2.15,1.93,2.01,1.8
+65,Paris,BNP Paribas Masters,28/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Garin C.,Cuevas P.,42,44,1117,1102,6,4,6,3,,,,,,,2,0,Completed,1.53,2.37,1.65,2.4,1.67,2.5,1.59,2.36
+65,Paris,BNP Paribas Masters,28/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Paire B.,Dzumhur D.,23,91,1528,609,7,5,6,4,,,,,,,2,0,Completed,1.66,2.1,1.68,2.34,1.87,2.34,1.7,2.16
+65,Paris,BNP Paribas Masters,28/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Tsonga J.W.,Rublev A.,35,22,1230,1606,4,6,7,5,6,4,,,,,2,1,Completed,1.9,1.8,2.2,1.75,2.2,1.91,2,1.8
+65,Paris,BNP Paribas Masters,28/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Mannarino A.,Ruud C.,43,63,1111,931,6,4,6,2,,,,,,,2,0,Completed,1.44,2.62,1.41,3.19,1.5,3.24,1.42,2.87
+65,Paris,BNP Paribas Masters,29/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Moutet C.,Lajovic D.,97,34,584,1286,6,4,1,6,6,3,,,,,2,1,Completed,1.83,1.83,1.87,2.04,1.92,2.15,1.81,2
+65,Paris,BNP Paribas Masters,29/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Fritz T.,Tiafoe F.,33,46,1315,1085,7,6,3,6,6,4,,,,,2,1,Completed,2.1,1.66,2.09,1.83,2.35,1.85,2.04,1.77
+65,Paris,BNP Paribas Masters,29/10/2019,Masters 1000,Indoor,Hard,1st Round,3,De Minaur A.,Djere L.,18,38,1695,1161,6,1,6,4,,,,,,,2,0,Completed,1.1,7,1.09,9.47,1.11,10,1.09,7.62
+65,Paris,BNP Paribas Masters,29/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Edmund K.,Berankis R.,75,70,710,809,6,4,6,3,,,,,,,2,0,Completed,1.72,2,1.88,2.02,1.91,2.1,1.8,2
+65,Paris,BNP Paribas Masters,29/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Shapovalov D.,Simon G.,28,53,1460,990,2,2,,,,,,,,,0,0,Retired,1.4,2.75,1.5,2.79,1.51,3,1.45,2.74
+65,Paris,BNP Paribas Masters,29/10/2019,Masters 1000,Indoor,Hard,1st Round,3,Dimitrov G.,Humbert U.,27,56,1477,972,4,6,6,1,6,2,,,,,2,1,Completed,1.66,2.1,1.61,2.47,1.67,2.6,1.6,2.34
+65,Paris,BNP Paribas Masters,29/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Struff J.L.,Khachanov K.,36,8,1200,2830,7,6,3,6,7,5,,,,,2,1,Completed,2.5,1.5,2.6,1.56,2.65,1.62,2.46,1.55
+65,Paris,BNP Paribas Masters,29/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Albot R.,Seppi A.,50,74,1022,760,7,6,7,6,,,,,,,2,0,Completed,1.83,1.83,1.87,2.04,1.92,2.08,1.83,1.98
+65,Paris,BNP Paribas Masters,29/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Chardy J.,Medvedev D.,65,4,885,5740,4,6,6,2,6,4,,,,,2,1,Completed,5.5,1.14,6.32,1.15,6.4,1.19,5.5,1.15
+65,Paris,BNP Paribas Masters,29/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Zverev A.,Verdasco F.,6,49,4335,1025,6,1,6,3,,,,,,,2,0,Completed,1.33,3.25,1.35,3.5,1.4,3.66,1.32,3.36
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Thiem D.,Raonic M.,5,32,5495,1350,7,6,5,7,6,4,,,,,2,1,Completed,1.53,2.37,1.6,2.51,1.62,2.69,1.54,2.47
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Shapovalov D.,Fognini F.,28,12,1460,2370,3,6,6,3,6,3,,,,,2,1,Completed,1.4,2.75,1.45,2.98,1.53,3.2,1.44,2.78
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Garin C.,Isner J.,42,17,1117,1850,7,6,7,6,,,,,,,2,0,Completed,2.62,1.44,2.49,1.61,2.8,1.61,2.54,1.51
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Tsitsipas S.,Fritz T.,7,33,3830,1315,7,6,6,3,,,,,,,2,0,Completed,1.28,3.5,1.31,3.83,1.33,4,1.29,3.63
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Dimitrov G.,Goffin D.,27,14,1477,2325,7,5,6,3,,,,,,,2,0,Completed,2,1.72,2.14,1.79,2.15,1.84,2.06,1.76
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,De Minaur A.,Bautista Agut R.,18,10,1695,2575,7,6,7,6,,,,,,,2,0,Completed,1.72,2,1.9,2,1.91,2.13,1.79,2.02
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Monfils G.,Paire B.,13,23,2350,1528,6,4,7,6,,,,,,,2,0,Completed,1.4,2.75,1.42,3.12,1.45,3.25,1.39,2.98
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Wawrinka S.,Cilic M.,16,24,1910,1500,7,6,7,6,,,,,,,2,0,Completed,1.57,2.25,1.59,2.53,1.62,2.55,1.58,2.38
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Djokovic N.,Moutet C.,1,97,9545,584,7,6,6,4,,,,,,,2,0,Completed,1.03,15,1.02,24.04,1.03,26.5,1.01,16.88
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Edmund K.,Schwartzman D.,75,15,710,2205,7,5,6,3,,,,,,,2,0,Completed,2.37,1.53,2.57,1.57,2.85,1.58,2.47,1.54
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Nadal R.,Mannarino A.,2,43,9225,1111,7,5,6,4,,,,,,,2,0,Completed,1.12,6,1.1,8.41,1.14,8.41,1.1,6.87
+65,Paris,BNP Paribas Masters,30/10/2019,Masters 1000,Indoor,Hard,2nd Round,3,Tsonga J.W.,Berrettini M.,35,9,1230,2705,6,4,6,3,,,,,,,2,0,Completed,2.25,1.57,2.53,1.59,2.53,1.67,2.4,1.57
+65,Paris,BNP Paribas Masters,31/10/2019,Masters 1000,Indoor,Hard,3rd Round,3,Garin C.,Chardy J.,42,65,1117,885,6,7,6,4,7,6,,,,,2,1,Completed,2.37,1.57,2.7,1.54,2.7,1.58,2.5,1.54
+65,Paris,BNP Paribas Masters,31/10/2019,Masters 1000,Indoor,Hard,3rd Round,3,Dimitrov G.,Thiem D.,27,5,1477,5495,6,3,6,2,,,,,,,2,0,Completed,2.1,1.72,2.38,1.67,2.45,1.85,2.19,1.68
+65,Paris,BNP Paribas Masters,31/10/2019,Masters 1000,Indoor,Hard,3rd Round,3,Tsitsipas S.,De Minaur A.,7,18,3830,1695,6,3,6,4,,,,,,,2,0,Completed,1.57,2.37,1.68,2.36,1.69,2.45,1.6,2.34
+65,Paris,BNP Paribas Masters,31/10/2019,Masters 1000,Indoor,Hard,3rd Round,3,Djokovic N.,Edmund K.,1,75,9545,710,7,6,6,1,,,,,,,2,0,Completed,1.1,7,1.08,10.36,1.11,10.67,1.08,8.23
+65,Paris,BNP Paribas Masters,31/10/2019,Masters 1000,Indoor,Hard,3rd Round,3,Tsonga J.W.,Struff J.L.,35,36,1230,1200,2,6,6,4,7,6,,,,,2,1,Completed,1.57,2.37,1.58,2.58,1.62,2.7,1.56,2.43
+65,Paris,BNP Paribas Masters,31/10/2019,Masters 1000,Indoor,Hard,3rd Round,3,Shapovalov D.,Zverev A.,28,6,1460,4335,6,2,5,7,6,2,,,,,2,1,Completed,2.75,1.44,3.3,1.4,3.3,1.45,2.91,1.41
+65,Paris,BNP Paribas Masters,31/10/2019,Masters 1000,Indoor,Hard,3rd Round,3,Nadal R.,Wawrinka S.,2,16,9225,1910,6,4,6,4,,,,,,,2,0,Completed,1.25,4,1.23,4.92,1.27,4.95,1.24,4.13
+65,Paris,BNP Paribas Masters,31/10/2019,Masters 1000,Indoor,Hard,3rd Round,3,Monfils G.,Albot R.,13,50,2350,1022,4,6,6,4,6,1,,,,,2,1,Completed,1.25,4,1.27,4.3,1.29,4.33,1.25,3.98
+65,Paris,BNP Paribas Masters,01/11/2019,Masters 1000,Indoor,Hard,Quarterfinals,3,Dimitrov G.,Garin C.,27,42,1477,1117,6,2,7,5,,,,,,,2,0,Completed,1.25,4,1.22,4.92,1.26,4.92,1.22,4.27
+65,Paris,BNP Paribas Masters,01/11/2019,Masters 1000,Indoor,Hard,Quarterfinals,3,Djokovic N.,Tsitsipas S.,1,7,9545,3830,6,1,6,2,,,,,,,2,0,Completed,1.3,3.5,1.33,3.73,1.36,3.73,1.32,3.41
+65,Paris,BNP Paribas Masters,01/11/2019,Masters 1000,Indoor,Hard,Quarterfinals,3,Shapovalov D.,Monfils G.,28,13,1460,2350,6,2,6,2,,,,,,,2,0,Completed,1.72,2.1,1.72,2.27,1.77,2.27,1.72,2.12
+65,Paris,BNP Paribas Masters,01/11/2019,Masters 1000,Indoor,Hard,Quarterfinals,3,Nadal R.,Tsonga J.W.,2,35,9225,1230,7,6,6,1,,,,,,,2,0,Completed,1.16,5,1.15,6.58,1.22,6.6,1.15,5.47
+65,Paris,BNP Paribas Masters,02/11/2019,Masters 1000,Indoor,Hard,Semifinals,3,Djokovic N.,Dimitrov G.,1,27,9545,1477,7,6,6,4,,,,,,,2,0,Completed,1.12,6,1.1,8.75,1.14,8.75,1.1,6.99
+65,Paris,BNP Paribas Masters,02/11/2019,Masters 1000,Indoor,Hard,Semifinals,3,Shapovalov D.,Nadal R.,28,2,1460,9225,,,,,,,,,,,,,Walkover,5,1.16,5.61,1.19,5.63,1.21,4.94,1.18
+65,Paris,BNP Paribas Masters,03/11/2019,Masters 1000,Indoor,Hard,The Final,3,Djokovic N.,Shapovalov D.,1,28,9545,1460,6,3,6,4,,,,,,,2,0,Completed,1.12,6,1.16,6.31,1.16,7,1.13,5.98

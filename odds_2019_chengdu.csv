@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+55,Chengdu,Chengdu Open,23/09/2019,ATP250,Outdoor,Hard,1st Round,3,Garin C.,Edmund K.,33,32,1297,1325,6,3,6,2,,,,,,,2,0,Completed,2.75,1.4,3.17,1.4,3.2,1.44,2.97,1.39
+55,Chengdu,Chengdu Open,23/09/2019,ATP250,Outdoor,Hard,1st Round,3,Klahn B.,Jung J.,97,132,566,417,4,6,6,3,7,6,,,,,2,1,Completed,1.57,2.25,1.56,2.59,1.66,2.65,1.55,2.42
+55,Chengdu,Chengdu Open,23/09/2019,ATP250,Outdoor,Hard,1st Round,3,Evans D.,Bai Y.,48,222,1038,215,6,3,4,6,7,6,,,,,2,1,Completed,1.14,5.5,1.16,6.05,1.18,6.1,1.14,5.46
+55,Chengdu,Chengdu Open,24/09/2019,ATP250,Outdoor,Hard,1st Round,3,Carreno Busta P.,Albot R.,63,42,942,1087,6,3,6,4,,,,,,,2,0,Completed,1.53,2.37,1.6,2.49,1.55,2.5,1.54,2.42
+55,Chengdu,Chengdu Open,24/09/2019,ATP250,Outdoor,Hard,1st Round,3,Lajovic D.,Londero J.I.,29,57,1396,997,6,2,4,6,6,4,,,,,2,1,Completed,1.66,2.1,1.69,2.28,1.72,2.34,1.67,2.19
+55,Chengdu,Chengdu Open,24/09/2019,ATP250,Outdoor,Hard,1st Round,3,Verdasco F.,Popyrin A.,35,90,1265,592,6,2,7,5,,,,,,,2,0,Completed,1.72,2,1.76,2.17,1.88,2.2,1.73,2.1
+55,Chengdu,Chengdu Open,24/09/2019,ATP250,Outdoor,Hard,1st Round,3,Harris L.,Fucsovics M.,111,66,510,885,4,6,6,4,6,2,,,,,2,1,Completed,,,,,,,,
+55,Chengdu,Chengdu Open,24/09/2019,ATP250,Outdoor,Hard,1st Round,3,Gerasimov E.,Li Z.,98,234,565,205,4,6,6,2,6,3,,,,,2,1,Completed,1.28,3.5,1.31,3.74,1.32,4.2,1.28,3.61
+55,Chengdu,Chengdu Open,25/09/2019,ATP250,Outdoor,Hard,1st Round,3,Sousa J.,Chung H.,62,145,961,383,1,6,6,3,6,4,,,,,2,1,Completed,2.5,1.5,2.33,1.67,2.75,1.67,2.48,1.54
+55,Chengdu,Chengdu Open,25/09/2019,ATP250,Outdoor,Hard,1st Round,3,Thompson J.,Pospisil V.,54,223,1008,214,6,3,3,6,7,5,,,,,2,1,Completed,1.61,2.2,1.78,2.14,1.8,2.27,1.72,2.1
+55,Chengdu,Chengdu Open,25/09/2019,ATP250,Outdoor,Hard,1st Round,3,Bublik A.,Fritz T.,71,30,860,1385,4,6,7,5,7,5,,,,,2,1,Completed,3,1.36,3.4,1.36,3.52,1.4,3.15,1.35
+55,Chengdu,Chengdu Open,25/09/2019,ATP250,Outdoor,Hard,1st Round,3,Shapovalov D.,Berankis R.,34,70,1285,867,6,4,6,3,,,,,,,2,0,Completed,1.36,3,1.39,3.24,1.45,3.44,1.38,3.03
+55,Chengdu,Chengdu Open,26/09/2019,ATP250,Outdoor,Hard,2nd Round,3,Dimitrov G.,Evans D.,26,48,1432,1038,7,5,7,5,,,,,,,2,0,Completed,1.44,2.62,1.55,2.64,1.56,2.71,1.5,2.56
+55,Chengdu,Chengdu Open,26/09/2019,ATP250,Outdoor,Hard,2nd Round,3,Carreno Busta P.,Paire B.,63,23,942,1553,6,3,3,6,6,3,,,,,2,1,Completed,1.44,2.62,1.55,2.64,1.56,2.75,1.49,2.58
+55,Chengdu,Chengdu Open,26/09/2019,ATP250,Outdoor,Hard,2nd Round,3,Garin C.,Verdasco F.,33,35,1297,1265,6,3,3,6,6,3,,,,,2,1,Completed,2.37,1.53,2.64,1.55,2.64,1.67,2.47,1.54
+55,Chengdu,Chengdu Open,26/09/2019,ATP250,Outdoor,Hard,2nd Round,3,Shapovalov D.,Klahn B.,34,97,1285,566,3,6,6,3,7,6,,,,,2,1,Completed,1.25,3.75,1.27,4.24,1.29,4.26,1.25,3.9
+55,Chengdu,Chengdu Open,26/09/2019,ATP250,Outdoor,Hard,2nd Round,3,Sousa J.,Auger-Aliassime F.,62,20,961,1725,6,4,6,7,6,4,,,,,2,1,Completed,2,1.72,2.03,1.88,2.12,1.88,2.03,1.78
+55,Chengdu,Chengdu Open,26/09/2019,ATP250,Outdoor,Hard,2nd Round,3,Bublik A.,Thompson J.,71,54,860,1008,6,4,7,5,,,,,,,2,0,Completed,2.37,1.53,2.5,1.6,2.5,1.65,2.37,1.57
+55,Chengdu,Chengdu Open,26/09/2019,ATP250,Outdoor,Hard,2nd Round,3,Harris L.,Lajovic D.,111,29,510,1396,6,3,6,3,,,,,,,2,0,Completed,2.25,1.57,2.37,1.66,2.5,1.67,2.29,1.62
+55,Chengdu,Chengdu Open,26/09/2019,ATP250,Outdoor,Hard,2nd Round,3,Gerasimov E.,Isner J.,98,19,565,1805,6,7,7,6,7,6,,,,,2,1,Completed,2.5,1.5,2.46,1.62,2.65,1.62,2.52,1.52
+55,Chengdu,Chengdu Open,27/09/2019,ATP250,Outdoor,Hard,Quarterfinals,3,Bublik A.,Dimitrov G.,71,26,860,1432,5,7,7,6,7,6,,,,,2,1,Completed,3.5,1.3,3.69,1.34,3.95,1.36,3.59,1.29
+55,Chengdu,Chengdu Open,27/09/2019,ATP250,Outdoor,Hard,Quarterfinals,3,Harris L.,Sousa J.,111,62,510,961,6,7,6,3,6,4,,,,,2,1,Completed,2.62,1.5,2.67,1.55,2.85,1.55,2.62,1.49
+55,Chengdu,Chengdu Open,27/09/2019,ATP250,Outdoor,Hard,Quarterfinals,3,Shapovalov D.,Gerasimov E.,34,98,1285,565,6,4,3,6,6,3,,,,,2,1,Completed,1.44,2.75,1.57,2.6,1.59,2.78,1.5,2.59
+55,Chengdu,Chengdu Open,27/09/2019,ATP250,Outdoor,Hard,Quarterfinals,3,Carreno Busta P.,Garin C.,63,33,942,1297,7,5,6,2,,,,,,,2,0,Completed,1.44,2.75,1.45,3.02,1.47,3.02,1.43,2.81
+55,Chengdu,Chengdu Open,28/09/2019,ATP250,Outdoor,Hard,Semifinals,3,Bublik A.,Harris L.,71,111,860,510,7,6,6,4,,,,,,,2,0,Completed,1.8,2,1.84,2.1,1.85,2.14,1.76,2.05
+55,Chengdu,Chengdu Open,28/09/2019,ATP250,Outdoor,Hard,Semifinals,3,Carreno Busta P.,Shapovalov D.,63,34,942,1285,6,3,6,4,,,,,,,2,0,Completed,2,1.8,2.13,1.82,2.13,1.85,2.04,1.78
+55,Chengdu,Chengdu Open,29/09/2019,ATP250,Outdoor,Hard,The Final,3,Carreno Busta P.,Bublik A.,63,71,942,860,6,7,6,4,7,6,,,,,2,1,Completed,1.4,3,1.41,3.2,1.47,3.25,1.4,2.94

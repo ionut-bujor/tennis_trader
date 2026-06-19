@@ -1,0 +1,56 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+59,Shanghai,Shanghai Masters,06/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Basilashvili N.,Albot R.,26,47,1440,1092,4,6,6,1,6,3,,,,,2,1,Completed,1.57,2.25,1.75,2.21,1.75,2.4,1.62,2.29
+59,Shanghai,Shanghai Masters,06/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Sousa J.,Krajinovic F.,63,60,916,963,2,6,6,4,7,6,,,,,2,1,Completed,1.83,1.83,1.91,2,2.1,2,1.94,1.86
+59,Shanghai,Shanghai Masters,06/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Fritz T.,Verdasco F.,29,41,1385,1170,7,6,6,7,6,4,,,,,2,1,Completed,1.72,2,1.93,1.98,1.93,2.08,1.83,1.97
+59,Shanghai,Shanghai Masters,06/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Hurkacz H.,Zhang Zh.,34,179,1243,278,7,6,6,4,,,,,,,2,0,Completed,1.28,3.5,1.31,3.81,1.35,3.99,1.31,3.46
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Norrie C.,Simon G.,64,49,910,1035,7,5,6,2,,,,,,,2,0,Completed,1.8,1.9,1.95,1.95,2.01,2,1.89,1.9
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Ramos-Vinolas A.,Cilic M.,46,25,1095,1455,6,4,6,4,,,,,,,2,0,Completed,3,1.36,3.15,1.41,3.3,1.42,3.08,1.37
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Shapovalov D.,Tiafoe F.,36,51,1220,1015,6,4,6,2,,,,,,,2,0,Completed,1.44,2.62,1.61,2.49,1.63,2.75,1.51,2.55
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Fognini F.,Querrey S.,12,45,2280,1100,6,4,6,2,,,,,,,2,0,Completed,1.9,1.8,2.18,1.77,2.2,1.85,2.05,1.77
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Pospisil V.,Schwartzman D.,248,16,184,1995,7,6,6,2,,,,,,,2,0,Completed,3,1.36,3.45,1.36,3.5,1.4,3.16,1.35
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Paire B.,Cecchinato M.,23,69,1553,845,6,2,7,5,,,,,,,2,0,Completed,1.57,2.25,1.73,2.24,1.75,2.45,1.67,2.19
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Garin C.,Cuevas P.,32,48,1262,1078,6,1,6,4,,,,,,,2,0,Completed,2,1.72,2.19,1.76,2.25,1.8,2.11,1.72
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Chardy J.,Edmund K.,71,42,835,1165,6,4,7,6,,,,,,,2,0,Completed,1.9,1.8,1.88,2.02,2.06,2.05,1.91,1.89
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Monfils G.,Sonego L.,11,55,2375,1000,7,5,6,7,6,3,,,,,2,1,Completed,1.3,3.4,1.31,3.84,1.34,4,1.29,3.61
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Murray A.,Londero J.I.,289,56,147,997,2,6,6,2,6,3,,,,,2,1,Completed,1.3,3.4,1.33,3.64,1.34,4,1.29,3.56
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Kukushkin M.,Kecmanovic M.,57,50,996,1033,7,6,6,4,,,,,,,2,0,Completed,2,1.72,2.2,1.75,2.26,1.8,2.12,1.71
+59,Shanghai,Shanghai Masters,07/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Carreno Busta P.,Zhang Ze.,37,179,1192,278,6,3,2,6,6,4,,,,,2,1,Completed,1.08,8,1.12,7.6,1.13,8,1.1,7.11
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Pouille L.,Li Z.,22,231,1600,205,6,7,6,4,6,4,,,,,2,1,Completed,1.11,6.5,1.12,7.58,1.14,7.77,1.1,6.83
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Opelka R.,Lajovic D.,40,31,1178,1306,6,3,6,4,,,,,,,2,0,Completed,1.44,2.62,1.57,2.59,1.57,2.91,1.5,2.59
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Rublev A.,Coric B.,33,15,1261,2130,6,4,7,6,,,,,,,2,0,Completed,1.66,2.1,1.72,2.26,1.74,2.4,1.66,2.21
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Isner J.,De Minaur A.,17,24,1895,1520,7,6,6,4,,,,,,,2,0,Completed,2,1.72,2.03,1.88,2.2,1.96,2.02,1.79
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Millman J.,Pella G.,58,21,991,1655,6,3,7,5,,,,,,,2,0,Completed,1.72,2,1.71,2.27,1.91,2.27,1.75,2.07
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Berrettini M.,Struff J.L.,13,38,2221,1190,6,2,6,1,,,,,,,2,0,Completed,1.5,2.5,1.58,2.56,1.58,2.7,1.51,2.55
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Auger-Aliassime F.,Bublik A.,19,54,1719,1004,7,6,4,0,,,,,,,1,0,Retired,1.72,2,1.75,2.21,1.8,2.3,1.72,2.12
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,1st Round,3,Goffin D.,Gasquet R.,14,52,2190,1015,6,2,6,3,,,,,,,2,0,Completed,1.3,3.4,1.4,3.22,1.41,3.5,1.34,3.22
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Basilashvili N.,Paire B.,26,23,1440,1553,6,4,1,6,6,1,,,,,2,1,Completed,1.66,2.1,1.66,2.37,1.76,2.37,1.7,2.14
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Hurkacz H.,Monfils G.,34,11,1243,2375,6,2,7,6,,,,,,,2,0,Completed,2.75,1.4,3.21,1.4,3.27,1.5,2.89,1.41
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Federer R.,Ramos-Vinolas A.,3,46,7130,1095,6,2,7,6,,,,,,,2,0,Completed,1.1,7,1.09,9.68,1.11,9.68,1.09,7.52
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Pospisil V.,Sousa J.,248,63,184,916,6,3,7,5,,,,,,,2,0,Completed,1.72,2,1.83,2.09,1.87,2.17,1.79,2.01
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Fognini F.,Murray A.,12,289,2280,147,7,6,2,6,7,6,,,,,2,1,Completed,1.66,2.1,1.81,2.12,1.81,2.2,1.72,2.11
+59,Shanghai,Shanghai Masters,08/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Medvedev D.,Norrie C.,4,64,4965,910,6,3,6,1,,,,,,,2,0,Completed,1.12,6,1.11,7.91,1.23,8.25,1.12,6.18
+59,Shanghai,Shanghai Masters,09/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Tsitsipas S.,Auger-Aliassime F.,7,19,3630,1719,7,6,7,6,,,,,,,2,0,Completed,1.4,2.75,1.43,3.07,1.45,3.1,1.41,2.88
+59,Shanghai,Shanghai Masters,09/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Berrettini M.,Garin C.,13,32,2221,1262,6,3,6,3,,,,,,,2,0,Completed,1.22,4,1.24,4.53,1.33,4.65,1.24,4.11
+59,Shanghai,Shanghai Masters,09/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Isner J.,Pouille L.,17,22,1895,1600,7,5,6,3,,,,,,,2,0,Completed,1.5,2.5,1.48,2.88,1.58,3.05,1.46,2.71
+59,Shanghai,Shanghai Masters,09/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Bautista Agut R.,Opelka R.,10,40,2575,1178,6,4,7,5,,,,,,,2,0,Completed,1.61,2.2,1.68,2.32,1.71,2.38,1.62,2.29
+59,Shanghai,Shanghai Masters,09/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Khachanov K.,Fritz T.,9,29,2945,1385,6,2,6,4,,,,,,,2,0,Completed,1.4,2.75,1.57,2.59,1.57,2.9,1.48,2.65
+59,Shanghai,Shanghai Masters,09/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Zverev A.,Chardy J.,6,71,4185,835,7,6,7,6,,,,,,,2,0,Completed,1.28,3.5,1.27,4.23,1.31,4.6,1.26,3.87
+59,Shanghai,Shanghai Masters,09/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Rublev A.,Millman J.,33,58,1261,991,6,2,6,0,,,,,,,2,0,Completed,1.44,2.62,1.52,2.73,1.52,2.85,1.47,2.66
+59,Shanghai,Shanghai Masters,09/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Goffin D.,Kukushkin M.,14,57,2190,996,6,2,3,0,,,,,,,1,0,Retired,1.22,4,1.27,4.27,1.27,4.4,1.23,4.12
+59,Shanghai,Shanghai Masters,09/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Djokovic N.,Shapovalov D.,1,36,10365,1220,6,3,6,3,,,,,,,2,0,Completed,1.1,7,1.08,9.8,1.12,11.86,1.08,7.82
+59,Shanghai,Shanghai Masters,09/10/2019,Masters 1000,Outdoor,Hard,2nd Round,3,Thiem D.,Carreno Busta P.,5,37,4915,1192,7,6,6,3,,,,,,,2,0,Completed,1.4,2.75,1.42,3.12,1.5,3.13,1.43,2.82
+59,Shanghai,Shanghai Masters,10/10/2019,Masters 1000,Outdoor,Hard,3rd Round,3,Fognini F.,Khachanov K.,12,9,2280,2945,6,3,7,5,,,,,,,2,0,Completed,2.75,1.44,2.97,1.47,3,1.5,2.8,1.43
+59,Shanghai,Shanghai Masters,10/10/2019,Masters 1000,Outdoor,Hard,3rd Round,3,Medvedev D.,Pospisil V.,4,248,4965,184,7,6,7,5,,,,,,,2,0,Completed,1.08,8,1.07,11.24,1.11,11.24,1.08,7.91
+59,Shanghai,Shanghai Masters,10/10/2019,Masters 1000,Outdoor,Hard,3rd Round,3,Berrettini M.,Bautista Agut R.,13,10,2221,2575,7,6,6,4,,,,,,,2,0,Completed,1.72,2.1,1.76,2.22,1.8,2.25,1.71,2.14
+59,Shanghai,Shanghai Masters,10/10/2019,Masters 1000,Outdoor,Hard,3rd Round,3,Djokovic N.,Isner J.,1,17,10365,1895,7,5,6,3,,,,,,,2,0,Completed,1.11,6.5,1.09,9.42,1.12,9.75,1.09,7.7
+59,Shanghai,Shanghai Masters,10/10/2019,Masters 1000,Outdoor,Hard,3rd Round,3,Tsitsipas S.,Hurkacz H.,7,34,3630,1243,7,5,3,6,7,6,,,,,2,1,Completed,1.4,3,1.4,3.28,1.42,3.4,1.38,3.04
+59,Shanghai,Shanghai Masters,10/10/2019,Masters 1000,Outdoor,Hard,3rd Round,3,Federer R.,Goffin D.,3,14,7130,2190,7,6,6,4,,,,,,,2,0,Completed,1.22,4.33,1.22,5.08,1.26,5.08,1.22,4.34
+59,Shanghai,Shanghai Masters,10/10/2019,Masters 1000,Outdoor,Hard,3rd Round,3,Thiem D.,Basilashvili N.,5,26,4915,1440,6,3,6,4,,,,,,,2,0,Completed,1.25,4,1.26,4.44,1.27,4.44,1.24,4.1
+59,Shanghai,Shanghai Masters,10/10/2019,Masters 1000,Outdoor,Hard,3rd Round,3,Zverev A.,Rublev A.,6,33,4185,1261,6,0,7,6,,,,,,,2,0,Completed,1.57,2.37,1.58,2.59,1.71,2.59,1.57,2.41
+59,Shanghai,Shanghai Masters,11/10/2019,Masters 1000,Outdoor,Hard,Quarterfinals,3,Medvedev D.,Fognini F.,4,12,4965,2280,6,3,7,6,,,,,,,2,0,Completed,1.22,4.33,1.24,4.76,1.24,4.8,1.21,4.42
+59,Shanghai,Shanghai Masters,11/10/2019,Masters 1000,Outdoor,Hard,Quarterfinals,3,Tsitsipas S.,Djokovic N.,7,1,3630,10365,3,6,7,5,6,3,,,,,2,1,Completed,5.5,1.14,8.31,1.11,8.36,1.16,6.57,1.11
+59,Shanghai,Shanghai Masters,11/10/2019,Masters 1000,Outdoor,Hard,Quarterfinals,3,Zverev A.,Federer R.,6,3,4185,7130,6,3,6,7,6,3,,,,,2,1,Completed,2.75,1.44,3.04,1.45,3.05,1.48,2.85,1.43
+59,Shanghai,Shanghai Masters,11/10/2019,Masters 1000,Outdoor,Hard,Quarterfinals,3,Berrettini M.,Thiem D.,13,5,2221,4915,7,6,6,4,,,,,,,2,0,Completed,2.37,1.57,2.35,1.68,2.49,1.68,2.35,1.6
+59,Shanghai,Shanghai Masters,12/10/2019,Masters 1000,Outdoor,Hard,Semifinals,3,Medvedev D.,Tsitsipas S.,4,7,4965,3630,7,6,7,5,,,,,,,2,0,Completed,1.44,2.75,1.41,3.23,1.46,3.3,1.4,2.97
+59,Shanghai,Shanghai Masters,12/10/2019,Masters 1000,Outdoor,Hard,Semifinals,3,Zverev A.,Berrettini M.,6,13,4185,2221,6,3,6,4,,,,,,,2,0,Completed,1.57,2.37,1.65,2.43,1.7,2.46,1.6,2.35
+59,Shanghai,Shanghai Masters,13/10/2019,Masters 1000,Outdoor,Hard,The Final,3,Medvedev D.,Zverev A.,4,6,4965,4185,6,4,6,1,,,,,,,2,0,Completed,1.53,2.5,1.58,2.59,1.59,2.63,1.54,2.49
