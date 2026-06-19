@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+64,Vienna,Erste Bank Open,21/10/2019,ATP500,Indoor,Hard,1st Round,3,Schwartzman D.,Herbert P.H.,15,66,1950,845,6,4,6,4,,,,,,,2,0,Completed,1.33,3.25,1.44,3,1.45,3.64,1.37,3.1
+64,Vienna,Erste Bank Open,21/10/2019,ATP500,Indoor,Hard,1st Round,3,Fucsovics M.,Sonego L.,67,56,840,990,6,4,6,4,,,,,,,2,0,Completed,1.61,2.2,1.55,2.6,1.67,2.6,1.59,2.35
+64,Vienna,Erste Bank Open,21/10/2019,ATP500,Indoor,Hard,1st Round,3,Berrettini M.,Edmund K.,11,75,2545,755,3,6,6,3,6,4,,,,,2,1,Completed,1.3,3.4,1.31,3.73,1.33,3.85,1.3,3.49
+64,Vienna,Erste Bank Open,21/10/2019,ATP500,Indoor,Hard,1st Round,3,Dimitrov G.,Dzumhur D.,29,92,1432,604,6,3,7,5,,,,,,,2,0,Completed,1.33,3.25,1.32,3.72,1.4,3.72,1.35,3.2
+64,Vienna,Erste Bank Open,21/10/2019,ATP500,Indoor,Hard,1st Round,3,Khachanov K.,Hurkacz H.,9,35,2785,1298,6,4,7,6,,,,,,,2,0,Completed,1.61,2.2,1.56,2.56,1.66,2.65,1.56,2.4
+64,Vienna,Erste Bank Open,22/10/2019,ATP500,Indoor,Hard,1st Round,3,Simon G.,Lopez F.,50,59,1035,958,6,4,6,3,,,,,,,2,0,Completed,1.61,2.2,1.62,2.43,1.67,2.45,1.6,2.31
+64,Vienna,Erste Bank Open,22/10/2019,ATP500,Indoor,Hard,1st Round,3,Bedene A.,Pella G.,72,20,795,1620,6,4,6,4,,,,,,,2,0,Completed,1.57,2.25,1.68,2.3,1.75,2.42,1.64,2.25
+64,Vienna,Erste Bank Open,22/10/2019,ATP500,Indoor,Hard,1st Round,3,Chung H.,Raonic M.,139,32,383,1350,6,4,7,5,,,,,,,2,0,Completed,2.5,1.5,2.43,1.62,2.6,1.62,2.43,1.56
+64,Vienna,Erste Bank Open,22/10/2019,ATP500,Indoor,Hard,1st Round,3,Verdasco F.,Basilashvili N.,40,26,1160,1485,4,6,6,2,6,1,,,,,2,1,Completed,2.37,1.53,2.35,1.66,2.5,1.67,2.3,1.61
+64,Vienna,Erste Bank Open,22/10/2019,ATP500,Indoor,Hard,1st Round,3,Thiem D.,Tsonga J.W.,5,36,5085,1230,6,4,7,6,,,,,,,2,0,Completed,1.5,2.5,1.51,2.72,1.54,2.95,1.46,2.69
+64,Vienna,Erste Bank Open,22/10/2019,ATP500,Indoor,Hard,1st Round,3,Sinner J.,Kohlschreiber P.,101,79,554,690,6,3,6,4,,,,,,,2,0,Completed,2,1.72,2.19,1.75,2.2,1.8,2.11,1.72
+64,Vienna,Erste Bank Open,23/10/2019,ATP500,Indoor,Hard,1st Round,3,Carreno Busta P.,Shapovalov D.,34,27,1330,1460,6,3,7,5,,,,,,,2,0,Completed,2.2,1.61,2.59,1.56,2.59,1.68,2.31,1.61
+64,Vienna,Erste Bank Open,23/10/2019,ATP500,Indoor,Hard,1st Round,3,Querrey S.,Mannarino A.,47,44,1065,1111,6,3,6,4,,,,,,,2,0,Completed,1.61,2.2,1.71,2.25,1.74,2.51,1.65,2.23
+64,Vienna,Erste Bank Open,23/10/2019,ATP500,Indoor,Hard,1st Round,3,Rublev A.,Bublik A.,22,51,1571,1026,6,1,6,7,7,6,,,,,2,1,Completed,1.36,3,1.35,3.4,1.42,3.49,1.37,3.09
+64,Vienna,Erste Bank Open,23/10/2019,ATP500,Indoor,Hard,1st Round,3,Kukushkin M.,Coric B.,57,24,971,1540,6,4,6,4,,,,,,,2,0,Completed,2.25,1.57,2.3,1.68,2.4,1.71,2.26,1.63
+64,Vienna,Erste Bank Open,23/10/2019,ATP500,Indoor,Hard,1st Round,3,Monfils G.,Novak D.,14,124,2260,454,2,6,7,5,6,3,,,,,2,1,Completed,1.22,4,1.28,4.06,1.28,4.5,1.24,4.02
+64,Vienna,Erste Bank Open,23/10/2019,ATP500,Indoor,Hard,2nd Round,3,Berrettini M.,Dimitrov G.,11,29,2545,1432,7,6,7,6,,,,,,,2,0,Completed,1.57,2.25,1.71,2.27,1.75,2.3,1.68,2.18
+64,Vienna,Erste Bank Open,23/10/2019,ATP500,Indoor,Hard,2nd Round,3,Khachanov K.,Fucsovics M.,9,67,2785,840,6,3,4,6,4,1,,,,,1,1,Retired,1.36,3,1.42,3.1,1.45,3.2,1.39,2.96
+64,Vienna,Erste Bank Open,24/10/2019,ATP500,Indoor,Hard,2nd Round,3,Schwartzman D.,Querrey S.,15,47,1950,1065,6,7,6,4,7,6,,,,,2,1,Completed,1.66,2.1,1.81,2.12,1.83,2.38,1.75,2.07
+64,Vienna,Erste Bank Open,24/10/2019,ATP500,Indoor,Hard,2nd Round,3,Carreno Busta P.,Kukushkin M.,34,57,1330,971,6,7,6,4,6,1,,,,,2,1,Completed,1.36,3,1.5,2.81,1.54,3.1,1.43,2.83
+64,Vienna,Erste Bank Open,24/10/2019,ATP500,Indoor,Hard,2nd Round,3,Rublev A.,Chung H.,22,139,1571,383,6,4,6,2,,,,,,,2,0,Completed,1.5,2.5,1.55,2.65,1.62,2.65,1.54,2.47
+64,Vienna,Erste Bank Open,24/10/2019,ATP500,Indoor,Hard,2nd Round,3,Bedene A.,Simon G.,72,50,795,1035,6,2,3,6,6,3,,,,,2,1,Completed,1.66,2.1,1.65,2.38,1.7,2.45,1.62,2.27
+64,Vienna,Erste Bank Open,24/10/2019,ATP500,Indoor,Hard,2nd Round,3,Thiem D.,Verdasco F.,5,40,5085,1160,3,6,6,3,6,2,,,,,2,1,Completed,1.22,4,1.28,4.1,1.3,4.2,1.25,3.97
+64,Vienna,Erste Bank Open,24/10/2019,ATP500,Indoor,Hard,2nd Round,3,Monfils G.,Sinner J.,14,101,2260,554,6,3,7,6,,,,,,,2,0,Completed,1.8,1.9,2.01,1.9,2.01,2.02,1.86,1.94
+64,Vienna,Erste Bank Open,25/10/2019,ATP500,Indoor,Hard,Quarterfinals,3,Berrettini M.,Rublev A.,11,22,2545,1571,7,5,7,6,,,,,,,2,0,Completed,1.66,2.2,1.64,2.44,1.73,2.44,1.65,2.24
+64,Vienna,Erste Bank Open,25/10/2019,ATP500,Indoor,Hard,Quarterfinals,3,Thiem D.,Carreno Busta P.,5,34,5085,1330,5,0,,,,,,,,,0,0,Retired,1.28,3.75,1.29,4.07,1.3,4.45,1.27,3.81
+64,Vienna,Erste Bank Open,25/10/2019,ATP500,Indoor,Hard,Quarterfinals,3,Schwartzman D.,Khachanov K.,15,9,1950,2785,7,6,6,2,,,,,,,2,0,Completed,2.37,1.57,2.28,1.72,2.85,1.72,2.33,1.6
+64,Vienna,Erste Bank Open,25/10/2019,ATP500,Indoor,Hard,Quarterfinals,3,Monfils G.,Bedene A.,14,72,2260,795,7,5,6,1,,,,,,,2,0,Completed,1.61,2.3,1.7,2.31,1.75,2.42,1.66,2.21
+64,Vienna,Erste Bank Open,26/10/2019,ATP500,Indoor,Hard,Semifinals,3,Thiem D.,Berrettini M.,5,11,5085,2545,3,6,7,5,6,3,,,,,2,1,Completed,1.61,2.3,1.6,2.54,1.68,2.54,1.62,2.3
+64,Vienna,Erste Bank Open,26/10/2019,ATP500,Indoor,Hard,Semifinals,3,Schwartzman D.,Monfils G.,15,14,1950,2260,6,3,6,2,,,,,,,2,0,Completed,2.1,1.72,2.24,1.75,2.24,1.8,2.13,1.72
+64,Vienna,Erste Bank Open,27/10/2019,ATP500,Indoor,Hard,The Final,3,Thiem D.,Schwartzman D.,5,15,5085,1950,3,6,6,4,6,3,,,,,2,1,Completed,1.28,3.75,1.32,3.8,1.33,3.88,1.29,3.63

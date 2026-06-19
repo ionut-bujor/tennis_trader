@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+35,Halle,Halle Open,17/06/2024,ATP500,Outdoor,Grass,1st Round,3,Koepfer D.,Auger-Aliassime F.,70,18,781,2075,6,4,4,3,,,,,,,1,0,Retired,3.2,1.36,3.19,1.4,3.2,1.4,3.07,1.36
+35,Halle,Halle Open,17/06/2024,ATP500,Outdoor,Grass,1st Round,3,Sonego L.,Kecmanovic M.,57,54,861,920,7,6,7,6,,,,,,,2,0,Completed,2,1.8,2.05,1.85,2.1,1.9,1.97,1.8
+35,Halle,Halle Open,17/06/2024,ATP500,Outdoor,Grass,1st Round,3,Zhang Zh.,Ofner S.,42,52,1066,933,7,6,6,7,6,4,,,,,2,1,Completed,1.91,1.91,1.97,1.92,2.03,1.95,1.9,1.88
+35,Halle,Halle Open,17/06/2024,ATP500,Outdoor,Grass,1st Round,3,Marozsan F.,Safiullin R.,45,40,997,1097,7,5,4,6,6,1,,,,,2,1,Completed,2.5,1.53,2.71,1.52,2.73,1.54,2.59,1.48
+35,Halle,Halle Open,17/06/2024,ATP500,Outdoor,Grass,1st Round,3,Medvedev D.,Borges N.,5,51,6485,936,7,6,6,4,,,,,,,2,0,Completed,1.08,8,1.14,6.66,1.15,8,1.11,6.36
+35,Halle,Halle Open,17/06/2024,ATP500,Outdoor,Grass,1st Round,3,Hurkacz H.,Cobolli F.,9,49,3950,955,7,5,7,6,,,,,,,2,0,Completed,1.13,6,1.16,6.09,1.18,6.1,1.14,5.56
+35,Halle,Halle Open,18/06/2024,ATP500,Outdoor,Grass,1st Round,3,Fils A.,Machac T.,37,36,1170,1214,6,4,6,4,,,,,,,2,0,Completed,2,1.8,1.99,1.89,2.05,1.89,1.97,1.81
+35,Halle,Halle Open,18/06/2024,ATP500,Outdoor,Grass,1st Round,3,Duckworth J.,Fonseca J.,88,217,665,283,6,4,6,4,,,,,,,2,0,Completed,1.44,2.75,1.46,2.92,1.48,2.92,1.44,2.74
+35,Halle,Halle Open,18/06/2024,ATP500,Outdoor,Grass,1st Round,3,Giron M.,Rublev A.,53,6,925,4710,6,4,7,6,,,,,,,2,0,Completed,4,1.25,4.05,1.28,4.1,1.31,3.86,1.25
+35,Halle,Halle Open,18/06/2024,ATP500,Outdoor,Grass,1st Round,3,Eubanks C.,Martinez P.,44,46,1005,975,6,3,6,4,,,,,,,2,0,Completed,1.4,3,1.42,3.09,1.43,3.09,1.39,2.92
+35,Halle,Halle Open,18/06/2024,ATP500,Outdoor,Grass,1st Round,3,Bublik A.,Purcell M.,17,101,2180,612,7,6,6,4,,,,,,,2,0,Completed,1.4,3,1.45,2.96,1.46,3,1.41,2.84
+35,Halle,Halle Open,18/06/2024,ATP500,Outdoor,Grass,1st Round,3,Sinner J.,Griekspoor T.,1,27,9480,1540,6,7,6,3,6,2,,,,,2,1,Completed,1.11,6.5,1.14,6.61,1.14,6.66,1.12,6.02
+35,Halle,Halle Open,18/06/2024,ATP500,Outdoor,Grass,1st Round,3,Zverev A.,Otte O.,4,474,6885,92,6,7,6,3,6,4,,,,,2,1,Completed,1.14,5.5,1.15,6.32,1.16,6.93,1.13,5.65
+35,Halle,Halle Open,18/06/2024,ATP500,Outdoor,Grass,1st Round,3,Tsitsipas S.,Squire H.,11,181,3740,344,7,6,7,6,,,,,,,2,0,Completed,1.14,5.5,1.21,4.94,1.24,5.55,1.17,4.86
+35,Halle,Halle Open,19/06/2024,ATP500,Outdoor,Grass,1st Round,3,Berrettini M.,Michelsen A.,65,61,795,829,7,6,6,2,,,,,,,2,0,Completed,1.25,4,1.28,4.03,1.29,4.04,1.25,3.78
+35,Halle,Halle Open,19/06/2024,ATP500,Outdoor,Grass,1st Round,3,Struff J.L.,Darderi L.,41,34,1080,1231,6,7,7,5,7,6,,,,,2,1,Completed,1.17,5,1.21,5.04,1.22,5.05,1.18,4.69
+35,Halle,Halle Open,19/06/2024,ATP500,Outdoor,Grass,2nd Round,3,Fils A.,Koepfer D.,37,70,1170,781,6,3,6,4,,,,,,,2,0,Completed,1.62,2.3,1.74,2.23,1.75,2.32,1.66,2.18
+35,Halle,Halle Open,19/06/2024,ATP500,Outdoor,Grass,2nd Round,3,Eubanks C.,Bublik A.,44,17,1005,2180,7,6,4,6,6,3,,,,,2,1,Completed,2.75,1.44,3.03,1.44,3.03,1.46,2.76,1.43
+35,Halle,Halle Open,19/06/2024,ATP500,Outdoor,Grass,2nd Round,3,Zhang Zh.,Medvedev D.,42,5,1066,6485,6,3,2,6,7,6,,,,,2,1,Completed,5.5,1.14,5.87,1.17,5.87,1.17,5.37,1.14
+35,Halle,Halle Open,19/06/2024,ATP500,Outdoor,Grass,2nd Round,3,Zverev A.,Sonego L.,4,57,6885,861,6,4,7,6,,,,,,,2,0,Completed,1.2,4.5,1.2,5.31,1.26,5.31,1.19,4.57
+35,Halle,Halle Open,20/06/2024,ATP500,Outdoor,Grass,2nd Round,3,Hurkacz H.,Duckworth J.,9,88,3950,665,7,6,6,4,,,,,,,2,0,Completed,1.2,4.5,1.23,4.78,1.23,5,1.2,4.49
+35,Halle,Halle Open,20/06/2024,ATP500,Outdoor,Grass,2nd Round,3,Sinner J.,Marozsan F.,1,45,9480,997,6,4,6,7,6,3,,,,,2,1,Completed,1.05,11,1.06,12.52,1.08,12.52,1.05,9.61
+35,Halle,Halle Open,20/06/2024,ATP500,Outdoor,Grass,2nd Round,3,Giron M.,Berrettini M.,53,65,925,795,3,6,6,4,6,3,,,,,2,1,Completed,3.5,1.3,3.61,1.34,4,1.34,3.44,1.31
+35,Halle,Halle Open,20/06/2024,ATP500,Outdoor,Grass,2nd Round,3,Struff J.L.,Tsitsipas S.,41,11,1080,3740,6,4,6,4,,,,,,,2,0,Completed,1.91,1.91,2,1.91,2.1,1.91,1.95,1.83
+35,Halle,Halle Open,21/06/2024,ATP500,Outdoor,Grass,Quarterfinals,3,Hurkacz H.,Giron M.,9,53,3950,925,7,6,6,4,,,,,,,2,0,Completed,1.29,3.75,1.33,3.69,1.34,3.75,1.29,3.51
+35,Halle,Halle Open,21/06/2024,ATP500,Outdoor,Grass,Quarterfinals,3,Zverev A.,Fils A.,4,37,6885,1170,6,7,6,3,6,4,,,,,2,1,Completed,1.29,3.75,1.25,4.5,1.29,4.5,1.25,3.92
+35,Halle,Halle Open,21/06/2024,ATP500,Outdoor,Grass,Quarterfinals,3,Sinner J.,Struff J.L.,1,41,9480,1080,6,2,6,7,7,6,,,,,2,1,Completed,1.25,4,1.3,3.89,1.3,4.11,1.26,3.77
+35,Halle,Halle Open,21/06/2024,ATP500,Outdoor,Grass,Quarterfinals,3,Zhang Zh.,Eubanks C.,42,44,1066,1005,6,4,4,6,7,5,,,,,2,1,Completed,1.8,2,1.9,2,1.9,2.14,1.8,1.98
+35,Halle,Halle Open,22/06/2024,ATP500,Outdoor,Grass,Semifinals,3,Hurkacz H.,Zverev A.,9,4,3950,6885,7,6,6,4,,,,,,,2,0,Completed,2.3,1.62,2.34,1.68,2.38,1.68,2.28,1.61
+35,Halle,Halle Open,22/06/2024,ATP500,Outdoor,Grass,Semifinals,3,Sinner J.,Zhang Zh.,1,42,9480,1066,6,4,7,6,,,,,,,2,0,Completed,1.08,8,1.1,9.08,1.12,9.08,1.08,7.38
+35,Halle,Halle Open,23/06/2024,ATP500,Outdoor,Grass,The Final,3,Sinner J.,Hurkacz H.,1,9,9480,3950,7,6,7,6,,,,,,,2,0,Completed,1.33,3.4,1.39,3.26,1.4,3.45,1.34,3.2

@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+13,Marseille,Open 13,14/02/2022,ATP250,Indoor,Hard,1st Round,3,Travaglia S.,Laaksonen H.,119,84,604,797,6,2,6,7,7,6,,,,,2,1,Completed,2.3,1.61,2.45,1.61,2.45,1.63,2.34,1.59
+13,Marseille,Open 13,14/02/2022,ATP250,Indoor,Hard,1st Round,3,Gasquet R.,Ymer M.,76,75,852,863,6,4,7,5,,,,,,,2,0,Completed,2.2,1.66,2.23,1.72,2.27,1.72,2.2,1.67
+13,Marseille,Open 13,14/02/2022,ATP250,Indoor,Hard,1st Round,3,Ivashka I.,Gombos N.,49,114,1154,624,7,6,6,3,,,,,,,2,0,Completed,1.28,3.75,1.34,3.55,1.34,3.8,1.29,3.54
+13,Marseille,Open 13,15/02/2022,ATP250,Indoor,Hard,1st Round,3,Safiullin R.,Popyrin A.,163,66,392,955,6,7,6,4,7,6,,,,,2,1,Completed,2.2,1.66,2.24,1.71,2.42,1.8,2.18,1.68
+13,Marseille,Open 13,15/02/2022,ATP250,Indoor,Hard,1st Round,3,Rune H.,Bergs Z.,90,169,742,375,1,6,6,3,6,4,,,,,2,1,Completed,1.5,2.62,1.51,2.73,1.67,2.8,1.5,2.58
+13,Marseille,Open 13,15/02/2022,ATP250,Indoor,Hard,1st Round,3,Machac T.,Dzumhur D.,115,140,621,492,1,6,6,3,6,1,,,,,2,1,Completed,1.53,2.5,1.54,2.62,2.05,2.63,1.54,2.47
+13,Marseille,Open 13,15/02/2022,ATP250,Indoor,Hard,1st Round,3,Herbert P.H.,Kukushkin M.,109,168,636,380,7,6,7,5,,,,,,,2,0,Completed,1.5,2.62,1.48,2.83,1.58,2.83,1.49,2.6
+13,Marseille,Open 13,15/02/2022,ATP250,Indoor,Hard,1st Round,3,Tsonga J.W.,Simon G.,243,132,245,537,6,2,6,4,,,,,,,2,0,Completed,1.61,2.3,1.63,2.41,1.63,2.47,1.6,2.31
+13,Marseille,Open 13,15/02/2022,ATP250,Indoor,Hard,1st Round,3,Albot R.,Novak D.,97,128,708,561,3,6,7,5,6,1,,,,,2,1,Completed,1.66,2.2,1.74,2.21,1.8,2.25,1.69,2.15
+13,Marseille,Open 13,15/02/2022,ATP250,Indoor,Hard,1st Round,3,Gaston H.,Moutet C.,68,107,923,657,6,4,6,4,,,,,,,2,0,Completed,3,1.4,3.08,1.42,3.08,1.44,2.92,1.4
+13,Marseille,Open 13,16/02/2022,ATP250,Indoor,Hard,1st Round,3,Bonzi B.,Majchrzak K.,69,79,919,823,7,6,6,4,,,,,,,2,0,Completed,1.9,1.9,1.92,1.97,1.95,2,1.88,1.91
+13,Marseille,Open 13,16/02/2022,ATP250,Indoor,Hard,1st Round,3,Pouille L.,Griekspoor T.,154,60,440,1046,7,5,3,6,6,1,,,,,2,1,Completed,3.75,1.28,3.97,1.29,4,1.3,3.69,1.27
+13,Marseille,Open 13,16/02/2022,ATP250,Indoor,Hard,2nd Round,3,Karatsev A.,Rune H.,15,90,2633,742,6,3,7,6,,,,,,,2,0,Completed,1.44,2.75,1.47,2.91,1.51,2.91,1.46,2.7
+13,Marseille,Open 13,16/02/2022,ATP250,Indoor,Hard,2nd Round,3,Rublev A.,Gasquet R.,7,76,4700,852,4,6,6,3,7,6,,,,,2,1,Completed,1.12,6,1.16,6.05,1.16,6.65,1.14,5.71
+13,Marseille,Open 13,16/02/2022,ATP250,Indoor,Hard,2nd Round,3,Ivashka I.,Travaglia S.,49,119,1154,604,6,1,6,3,,,,,,,2,0,Completed,1.33,3.4,1.36,3.48,1.38,3.5,1.33,3.27
+13,Marseille,Open 13,17/02/2022,ATP250,Indoor,Hard,2nd Round,3,Bonzi B.,Herbert P.H.,69,109,919,636,6,4,6,3,,,,,,,2,0,Completed,1.8,2,1.81,2.12,1.85,2.25,1.77,2.04
+13,Marseille,Open 13,17/02/2022,ATP250,Indoor,Hard,2nd Round,3,Safiullin R.,Machac T.,163,115,392,621,6,7,6,4,7,6,,,,,2,1,Completed,2.3,1.61,2.63,1.55,2.63,1.62,2.4,1.56
+13,Marseille,Open 13,17/02/2022,ATP250,Indoor,Hard,2nd Round,3,Auger-Aliassime F.,Tsonga J.W.,9,243,4018,245,7,6,6,2,,,,,,,2,0,Completed,1.16,5,1.15,6.31,1.19,6.31,1.14,5.49
+13,Marseille,Open 13,17/02/2022,ATP250,Indoor,Hard,2nd Round,3,Tsitsipas S.,Gaston H.,4,68,7355,923,6,3,7,6,,,,,,,2,0,Completed,1.14,5.5,1.13,7.3,1.16,7.3,1.11,6.41
+13,Marseille,Open 13,17/02/2022,ATP250,Indoor,Hard,2nd Round,3,Pouille L.,Albot R.,154,97,440,708,6,3,3,6,7,6,,,,,2,1,Completed,2,1.8,2.08,1.84,2.17,1.84,2.05,1.76
+13,Marseille,Open 13,18/02/2022,ATP250,Indoor,Hard,Quarterfinals,3,Bonzi B.,Karatsev A.,69,15,919,2633,6,1,6,3,,,,,,,2,0,Completed,2.37,1.57,2.39,1.65,2.59,1.66,2.36,1.58
+13,Marseille,Open 13,18/02/2022,ATP250,Indoor,Hard,Quarterfinals,3,Rublev A.,Pouille L.,7,154,4700,440,6,3,1,6,6,2,,,,,2,1,Completed,1.12,6,1.13,7.18,1.17,7.18,1.13,5.95
+13,Marseille,Open 13,18/02/2022,ATP250,Indoor,Hard,Quarterfinals,3,Safiullin R.,Tsitsipas S.,163,4,392,7355,6,4,6,4,,,,,,,2,0,Completed,6,1.12,6.45,1.15,6.75,1.15,5.94,1.13
+13,Marseille,Open 13,18/02/2022,ATP250,Indoor,Hard,Quarterfinals,3,Auger-Aliassime F.,Ivashka I.,9,49,4018,1154,6,3,6,4,,,,,,,2,0,Completed,1.25,4,1.3,3.91,1.3,4.45,1.25,3.91
+13,Marseille,Open 13,19/02/2022,ATP250,Indoor,Hard,Semifinals,3,Rublev A.,Bonzi B.,7,69,4700,919,6,3,4,6,6,3,,,,,2,1,Completed,1.3,3.5,1.36,3.43,1.36,3.75,1.31,3.48
+13,Marseille,Open 13,19/02/2022,ATP250,Indoor,Hard,Semifinals,3,Auger-Aliassime F.,Safiullin R.,9,163,4018,392,7,6,7,6,,,,,,,2,0,Completed,1.16,5,1.18,5.6,1.18,5.95,1.15,5.38
+13,Marseille,Open 13,20/02/2022,ATP250,Indoor,Hard,The Final,3,Rublev A.,Auger-Aliassime F.,7,9,4700,4018,7,5,7,6,,,,,,,2,0,Completed,2.37,1.57,2.46,1.62,2.57,1.63,2.42,1.56

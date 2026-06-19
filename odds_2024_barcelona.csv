@@ -1,0 +1,48 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+25,Barcelona,Barcelona Open,15/04/2024,ATP500,Outdoor,Clay,1st Round,3,Nakashima B.,Evans D.,87,49,695,996,7,6,6,2,,,,,,,2,0,Completed,1.5,2.63,1.51,2.75,1.53,2.8,1.48,2.65
+25,Barcelona,Barcelona Open,15/04/2024,ATP500,Outdoor,Clay,1st Round,3,Diaz Acosta F.,Rincon D.,53,216,958,283,6,1,6,4,,,,,,,2,0,Completed,1.29,3.75,1.35,3.49,1.35,3.9,1.31,3.41
+25,Barcelona,Barcelona Open,15/04/2024,ATP500,Outdoor,Clay,1st Round,3,Bautista Agut R.,Safiullin R.,84,38,703,1139,6,3,7,6,,,,,,,2,0,Completed,1.67,2.2,1.76,2.17,1.76,2.3,1.67,2.21
+25,Barcelona,Barcelona Open,15/04/2024,ATP500,Outdoor,Clay,1st Round,3,Arnaldi M.,Cazaux A.,40,75,1121,748,5,5,,,,,,,,,0,0,Retired,1.33,3.4,1.34,3.54,1.36,3.68,1.33,3.3
+25,Barcelona,Barcelona Open,15/04/2024,ATP500,Outdoor,Clay,1st Round,3,Trungelliti M.,Ajdukovic D.,197,123,310,507,6,2,7,6,,,,,,,2,0,Completed,1.73,2.1,1.87,2.02,1.91,2.1,1.83,1.97
+25,Barcelona,Barcelona Open,15/04/2024,ATP500,Outdoor,Clay,1st Round,3,Mayot H.,Cachin P.,116,88,525,673,7,6,2,6,6,3,,,,,2,1,Completed,1.67,2.2,1.66,2.34,1.68,2.38,1.64,2.26
+25,Barcelona,Barcelona Open,15/04/2024,ATP500,Outdoor,Clay,1st Round,3,Hardt N.,Landaluce M.,229,328,260,160,2,6,6,4,6,3,,,,,2,1,Completed,1.8,2,1.87,2.02,1.9,2.07,1.84,1.97
+25,Barcelona,Barcelona Open,15/04/2024,ATP500,Outdoor,Clay,1st Round,3,Ofner S.,Kotov P.,43,69,1081,817,5,7,6,3,6,2,,,,,2,1,Completed,2,1.8,2.02,1.87,2.05,1.89,1.97,1.83
+25,Barcelona,Barcelona Open,15/04/2024,ATP500,Outdoor,Clay,1st Round,3,Muller A.,Ramos-Vinolas A.,110,108,560,590,7,6,6,0,,,,,,,2,0,Completed,1.73,2.1,1.65,2.37,1.75,2.37,1.66,2.22
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,1st Round,3,Van Assche L.,Zhang Zh.,99,47,625,1044,7,5,6,2,,,,,,,2,0,Completed,1.91,1.91,1.93,1.96,2.03,1.96,1.89,1.91
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,1st Round,3,Lajovic D.,Schwartzman D.,59,142,896,453,6,1,6,2,,,,,,,2,0,Completed,1.8,2,1.78,2.14,1.82,2.14,1.77,2.05
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,1st Round,3,Carballes Baena R.,Grenier H.,72,159,771,407,6,2,6,4,,,,,,,2,0,Completed,1.17,5.5,1.18,5.43,1.2,5.6,1.17,5.11
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,1st Round,3,Munar J.,Nishioka Y.,73,71,770,788,6,3,6,1,,,,,,,2,0,Completed,1.25,4,1.3,3.85,1.3,4.05,1.27,3.74
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,1st Round,3,Machac T.,Shang J.,50,114,988,544,6,4,6,4,,,,,,,2,0,Completed,1.57,2.38,1.65,2.36,1.65,2.4,1.6,2.32
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,1st Round,3,Altmaier D.,Popyrin A.,66,44,856,1077,6,3,7,6,,,,,,,2,0,Completed,2.5,1.53,2.48,1.6,2.5,1.62,2.41,1.56
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,1st Round,3,Nadal R.,Cobolli F.,644,62,50,880,6,2,6,3,,,,,,,2,0,Completed,1.22,4.33,1.26,4.24,1.26,4.53,1.22,4.19
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Diaz Acosta F.,Coric B.,53,32,958,1244,6,2,7,5,,,,,,,2,0,Completed,2.1,1.73,2.18,1.76,2.3,1.83,2.17,1.69
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Nakashima B.,Rublev A.,87,8,695,3935,6,4,7,6,,,,,,,2,0,Completed,3.75,1.29,3.94,1.29,3.94,1.3,3.7,1.28
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Arnaldi M.,Baez S.,40,19,1121,1955,5,7,7,6,6,2,,,,,2,1,Completed,2.3,1.62,2.29,1.69,2.5,1.69,2.29,1.62
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Etcheverry T.,Hardt N.,30,229,1295,260,7,5,6,2,,,,,,,2,0,Completed,1.17,5,1.19,5.39,1.22,5.39,1.17,4.98
+25,Barcelona,Barcelona Open,16/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Norrie C.,Mayot H.,31,116,1290,525,7,6,6,7,,,,,,,1,1,Retired,1.22,4.33,1.24,4.47,1.25,4.5,1.22,4.24
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Davidovich Fokina A.,Machac T.,27,50,1395,988,,,,,,,,,,,,,Walkover,1.67,2.2,1.72,2.23,1.75,2.23,1.7,2.15
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Bautista Agut R.,Vavassori A.,84,156,703,413,4,6,6,3,6,1,,,,,2,1,Completed,1.36,3.2,1.41,3.13,1.45,3.2,1.38,3.03
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Trungelliti M.,Jarry N.,197,22,310,1685,7,6,6,3,,,,,,,2,0,Completed,4.33,1.22,4.39,1.25,4.39,1.25,4.17,1.23
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Thompson J.,Munar J.,33,73,1235,770,6,4,2,6,6,4,,,,,2,1,Completed,3.5,1.3,3.66,1.32,3.75,1.33,3.49,1.3
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Ruud C.,Muller A.,6,110,4025,560,6,3,6,4,,,,,,,2,0,Completed,1.1,7,1.12,7.37,1.12,7.69,1.11,6.67
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Lajovic D.,Humbert U.,59,13,896,2535,6,4,6,4,,,,,,,2,0,Completed,2.75,1.44,2.68,1.53,2.78,1.53,2.61,1.49
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,De Minaur A.,Nadal R.,11,644,3510,50,7,5,6,1,,,,,,,2,0,Completed,2,1.8,2.04,1.86,2.1,1.86,2.01,1.8
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Marozsan F.,Van Assche L.,39,99,1122,625,6,0,3,2,,,,,,,1,0,Retired,1.62,2.3,1.68,2.3,1.68,2.32,1.66,2.23
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Carballes Baena R.,Musetti L.,72,24,771,1510,7,6,6,4,,,,,,,2,0,Completed,3.2,1.36,3.31,1.37,3.31,1.37,3.15,1.36
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Tsitsipas S.,Ofner S.,7,43,3995,1081,6,4,7,5,,,,,,,2,0,Completed,1.07,9,1.09,9.31,1.09,9.33,1.08,8.16
+25,Barcelona,Barcelona Open,17/04/2024,ATP500,Outdoor,Clay,2nd Round,3,Fils A.,Altmaier D.,36,66,1185,856,6,4,1,6,6,1,,,,,2,1,Completed,1.67,2.2,1.68,2.3,1.68,2.3,1.66,2.21
+25,Barcelona,Barcelona Open,18/04/2024,ATP500,Outdoor,Clay,3rd Round,3,Norrie C.,Bautista Agut R.,31,84,1290,703,6,4,6,3,,,,,,,2,0,Completed,1.67,2.2,1.75,2.21,1.75,2.22,1.69,2.16
+25,Barcelona,Barcelona Open,18/04/2024,ATP500,Outdoor,Clay,3rd Round,3,Etcheverry T.,Nakashima B.,30,87,1295,695,3,6,7,6,6,4,,,,,2,1,Completed,1.67,2.2,1.71,2.27,1.76,2.29,1.68,2.19
+25,Barcelona,Barcelona Open,18/04/2024,ATP500,Outdoor,Clay,3rd Round,3,Lajovic D.,Davidovich Fokina A.,59,27,896,1395,7,6,3,6,6,1,,,,,2,1,Completed,2.2,1.67,2.38,1.65,2.38,1.73,2.24,1.65
+25,Barcelona,Barcelona Open,18/04/2024,ATP500,Outdoor,Clay,3rd Round,3,Arnaldi M.,Trungelliti M.,40,197,1121,310,6,3,6,0,,,,,,,2,0,Completed,1.25,4,1.27,4.2,1.29,4.2,1.26,3.92
+25,Barcelona,Barcelona Open,18/04/2024,ATP500,Outdoor,Clay,3rd Round,3,Ruud C.,Thompson J.,6,33,4025,1235,6,1,6,4,,,,,,,2,0,Completed,1.1,7,1.12,7.5,1.13,7.5,1.11,6.53
+25,Barcelona,Barcelona Open,18/04/2024,ATP500,Outdoor,Clay,3rd Round,3,Diaz Acosta F.,Marozsan F.,53,39,958,1122,3,6,6,3,6,1,,,,,2,1,Completed,2.38,1.57,2.38,1.66,2.4,1.66,2.33,1.6
+25,Barcelona,Barcelona Open,18/04/2024,ATP500,Outdoor,Clay,3rd Round,3,Tsitsipas S.,Carballes Baena R.,7,72,3995,771,7,5,6,3,,,,,,,2,0,Completed,1.14,5.5,1.17,5.91,1.17,5.95,1.15,5.42
+25,Barcelona,Barcelona Open,18/04/2024,ATP500,Outdoor,Clay,3rd Round,3,Fils A.,De Minaur A.,36,11,1185,3510,7,5,6,2,,,,,,,2,0,Completed,3.75,1.29,3.64,1.33,3.75,1.33,3.58,1.29
+25,Barcelona,Barcelona Open,19/04/2024,ATP500,Outdoor,Clay,Quarterfinals,3,Etcheverry T.,Norrie C.,30,31,1295,1290,7,6,7,6,,,,,,,2,0,Completed,2.1,1.73,2.11,1.82,2.12,1.82,2.08,1.75
+25,Barcelona,Barcelona Open,19/04/2024,ATP500,Outdoor,Clay,Quarterfinals,3,Ruud C.,Arnaldi M.,6,40,4025,1121,6,4,6,3,,,,,,,2,0,Completed,1.29,3.75,1.28,4.06,1.31,4.06,1.27,3.77
+25,Barcelona,Barcelona Open,19/04/2024,ATP500,Outdoor,Clay,Quarterfinals,3,Tsitsipas S.,Diaz Acosta F.,7,53,3995,958,4,6,6,3,7,6,,,,,2,1,Completed,1.14,5.5,1.18,5.69,1.18,6.15,1.14,5.57
+25,Barcelona,Barcelona Open,19/04/2024,ATP500,Outdoor,Clay,Quarterfinals,3,Lajovic D.,Fils A.,59,36,896,1185,6,4,3,6,6,2,,,,,2,1,Completed,2.38,1.57,2.35,1.67,2.38,1.7,2.3,1.62
+25,Barcelona,Barcelona Open,20/04/2024,ATP500,Outdoor,Clay,Semifinals,3,Ruud C.,Etcheverry T.,6,30,4025,1295,7,6,6,4,,,,,,,2,0,Completed,1.25,4,1.25,4.41,1.26,4.41,1.24,4.06
+25,Barcelona,Barcelona Open,20/04/2024,ATP500,Outdoor,Clay,Semifinals,3,Tsitsipas S.,Lajovic D.,7,59,3995,896,5,7,6,4,6,2,,,,,2,1,Completed,1.2,4.5,1.23,4.69,1.23,4.69,1.21,4.41
+25,Barcelona,Barcelona Open,21/04/2024,ATP500,Outdoor,Clay,The Final,3,Ruud C.,Tsitsipas S.,6,7,4025,3995,7,5,6,3,,,,,,,2,0,Completed,1.73,2.1,1.79,2.14,1.83,2.15,1.75,2.07

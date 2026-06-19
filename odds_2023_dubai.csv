@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+16,Dubai ,Dubai Tennis Championships,27/02/2023,ATP500,Outdoor,Hard,1st Round,3,Kokkinakis T.,Halys Q.,101,73,532,701,6,4,7,6,,,,,,,2,0,Completed,1.57,2.38,1.7,2.27,1.7,2.43,1.59,2.33
+16,Dubai ,Dubai Tennis Championships,27/02/2023,ATP500,Outdoor,Hard,1st Round,3,Sonego L.,Huesler M.A.,67,51,745,890,7,5,6,3,,,,,,,2,0,Completed,1.5,2.63,1.47,2.88,1.55,3,1.47,2.65
+16,Dubai ,Dubai Tennis Championships,27/02/2023,ATP500,Outdoor,Hard,1st Round,3,Griekspoor T.,Lestienne C.,39,56,989,821,6,4,3,6,6,2,,,,,2,1,Completed,1.33,3.4,1.37,3.33,1.37,3.6,1.33,3.29
+16,Dubai ,Dubai Tennis Championships,27/02/2023,ATP500,Outdoor,Hard,1st Round,3,Davidovich Fokina A.,Jaziri M.,29,444,1345,95,6,2,6,0,,,,,,,2,0,Completed,1.02,21,1.02,26.68,1.02,28.11,1.01,16.76
+16,Dubai ,Dubai Tennis Championships,27/02/2023,ATP500,Outdoor,Hard,1st Round,3,Kotov P.,Popyrin A.,138,98,419,556,6,3,5,7,7,6,,,,,2,1,Completed,2.38,1.57,2.57,1.56,2.72,1.65,2.46,1.54
+16,Dubai ,Dubai Tennis Championships,27/02/2023,ATP500,Outdoor,Hard,1st Round,3,Rublev A.,Krajinovic F.,6,70,3405,730,7,5,6,2,,,,,,,2,0,Completed,1.17,5,1.2,5.06,1.2,5.54,1.18,4.83
+16,Dubai ,Dubai Tennis Championships,27/02/2023,ATP500,Outdoor,Hard,1st Round,3,Zverev A.,Lehecka J.,16,47,2320,932,4,6,6,3,6,4,,,,,2,1,Completed,1.8,2,1.81,2.11,1.92,2.14,1.8,2
+16,Dubai ,Dubai Tennis Championships,28/02/2023,ATP500,Outdoor,Hard,1st Round,3,O Connell C.,Ruusuvuori E.,92,54,592,846,7,5,6,4,,,,,,,2,0,Completed,2.63,1.5,2.63,1.54,2.63,1.55,2.53,1.51
+16,Dubai ,Dubai Tennis Championships,28/02/2023,ATP500,Outdoor,Hard,1st Round,3,Auger-Aliassime F.,Cressy M.,9,36,3245,1016,7,6,3,6,6,3,,,,,2,1,Completed,1.3,3.5,1.34,3.52,1.36,3.63,1.31,3.39
+16,Dubai ,Dubai Tennis Championships,28/02/2023,ATP500,Outdoor,Hard,1st Round,3,Van De Zandschulp B.,Khachanov K.,33,14,1160,2470,7,5,6,2,,,,,,,2,0,Completed,3,1.4,3.13,1.41,3.6,1.44,3.01,1.38
+16,Dubai ,Dubai Tennis Championships,28/02/2023,ATP500,Outdoor,Hard,1st Round,3,Coric B.,Evans D.,20,28,1815,1380,2,2,,,,,,,,,0,0,Retired,1.53,2.5,1.56,2.58,1.58,2.58,1.54,2.45
+16,Dubai ,Dubai Tennis Championships,28/02/2023,ATP500,Outdoor,Hard,1st Round,3,Ymer M.,Passaro F.,59,110,806,501,6,2,6,3,,,,,,,2,0,Completed,1.25,4,1.22,4.83,1.26,4.83,1.21,4.25
+16,Dubai ,Dubai Tennis Championships,28/02/2023,ATP500,Outdoor,Hard,1st Round,3,Bublik A.,Lazarov A.,46,301,935,170,6,1,1,0,,,,,,,1,0,Retired,1.2,4.5,1.25,4.34,1.28,4.65,1.22,4.17
+16,Dubai ,Dubai Tennis Championships,28/02/2023,ATP500,Outdoor,Hard,1st Round,3,Medvedev D.,Arnaldi M.,7,111,3320,497,6,4,6,2,,,,,,,2,0,Completed,1.02,19,1.02,25.83,1.02,25.83,1.01,16.79
+16,Dubai ,Dubai Tennis Championships,28/02/2023,ATP500,Outdoor,Hard,1st Round,3,Djokovic N.,Machac T.,1,130,6980,435,6,3,3,6,7,6,,,,,2,1,Completed,1.05,11,1.04,15.85,1.06,16.05,1.04,11.28
+16,Dubai ,Dubai Tennis Championships,28/02/2023,ATP500,Outdoor,Hard,1st Round,3,Hurkacz H.,Shevchenko A.,11,119,3065,463,3,6,6,3,7,6,,,,,2,1,Completed,1.1,7,1.1,8.9,1.1,10.8,1.09,7.38
+16,Dubai ,Dubai Tennis Championships,01/03/2023,ATP500,Outdoor,Hard,2nd Round,3,Rublev A.,Davidovich Fokina A.,6,29,3405,1345,1,6,7,6,7,6,,,,,2,1,Completed,1.3,3.5,1.35,3.55,1.4,3.86,1.32,3.34
+16,Dubai ,Dubai Tennis Championships,01/03/2023,ATP500,Outdoor,Hard,2nd Round,3,Van De Zandschulp B.,Ymer M.,33,59,1160,806,3,6,6,3,6,3,,,,,2,1,Completed,1.8,2,1.89,2.02,1.89,2.1,1.82,1.97
+16,Dubai ,Dubai Tennis Championships,01/03/2023,ATP500,Outdoor,Hard,2nd Round,3,Sonego L.,Auger-Aliassime F.,67,9,745,3245,7,6,6,4,,,,,,,2,0,Completed,4,1.25,3.6,1.34,4,1.34,3.63,1.28
+16,Dubai ,Dubai Tennis Championships,01/03/2023,ATP500,Outdoor,Hard,2nd Round,3,Zverev A.,O Connell C.,16,92,2320,592,7,5,6,4,,,,,,,2,0,Completed,1.29,3.75,1.29,4.04,1.3,4.07,1.26,3.79
+16,Dubai ,Dubai Tennis Championships,01/03/2023,ATP500,Outdoor,Hard,2nd Round,3,Coric B.,Kokkinakis T.,20,101,1815,532,6,7,6,3,7,5,,,,,2,1,Completed,1.73,2.1,1.79,2.15,1.8,2.21,1.73,2.1
+16,Dubai ,Dubai Tennis Championships,01/03/2023,ATP500,Outdoor,Hard,2nd Round,3,Djokovic N.,Griekspoor T.,1,39,6980,989,6,2,6,3,,,,,,,2,0,Completed,1.06,10,1.08,10.49,1.09,10.67,1.06,8.87
+16,Dubai ,Dubai Tennis Championships,01/03/2023,ATP500,Outdoor,Hard,2nd Round,3,Medvedev D.,Bublik A.,7,46,3320,935,6,4,6,2,,,,,,,2,0,Completed,1.14,5.5,1.16,6.37,1.16,6.55,1.14,5.62
+16,Dubai ,Dubai Tennis Championships,01/03/2023,ATP500,Outdoor,Hard,2nd Round,3,Hurkacz H.,Kotov P.,11,138,3065,419,7,5,6,1,,,,,,,2,0,Completed,1.2,4.5,1.25,4.52,1.27,4.7,1.22,4.17
+16,Dubai ,Dubai Tennis Championships,02/03/2023,ATP500,Outdoor,Hard,Quarterfinals,3,Zverev A.,Sonego L.,16,67,2320,745,7,5,6,4,,,,,,,2,0,Completed,1.44,2.75,1.51,2.76,1.51,3,1.44,2.76
+16,Dubai ,Dubai Tennis Championships,02/03/2023,ATP500,Outdoor,Hard,Quarterfinals,3,Rublev A.,Van De Zandschulp B.,6,33,3405,1160,6,3,7,6,,,,,,,2,0,Completed,1.4,3,1.38,3.31,1.46,3.31,1.39,2.97
+16,Dubai ,Dubai Tennis Championships,02/03/2023,ATP500,Outdoor,Hard,Quarterfinals,3,Djokovic N.,Hurkacz H.,1,11,6980,3065,6,3,7,5,,,,,,,2,0,Completed,1.1,7,1.12,7.59,1.13,7.66,1.11,6.7
+16,Dubai ,Dubai Tennis Championships,02/03/2023,ATP500,Outdoor,Hard,Quarterfinals,3,Medvedev D.,Coric B.,7,20,3320,1815,6,3,6,2,,,,,,,2,0,Completed,1.2,4.5,1.19,5.37,1.23,5.37,1.19,4.65
+16,Dubai ,Dubai Tennis Championships,03/03/2023,ATP500,Outdoor,Hard,Semifinals,3,Rublev A.,Zverev A.,6,16,3405,2320,6,3,7,6,,,,,,,2,0,Completed,2.2,1.67,2.23,1.74,2.3,1.74,2.15,1.69
+16,Dubai ,Dubai Tennis Championships,03/03/2023,ATP500,Outdoor,Hard,Semifinals,3,Medvedev D.,Djokovic N.,7,1,3320,6980,6,4,6,4,,,,,,,2,0,Completed,2.75,1.44,2.89,1.47,2.95,1.48,2.77,1.44
+16,Dubai ,Dubai Tennis Championships,04/03/2023,ATP500,Outdoor,Hard,The Final,3,Medvedev D.,Rublev A.,7,6,3320,3405,6,2,6,2,,,,,,,2,0,Completed,1.22,4.33,1.25,4.46,1.25,4.51,1.23,4.18

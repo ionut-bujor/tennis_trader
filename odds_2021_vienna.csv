@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+58,Vienna,Vienna Open,25/10/2021,ATP500,Indoor,Hard,1st Round,3,Basilashvili N.,Carreno Busta P.,25,18,2066,2400,7,5,4,6,6,3,,,,,2,1,Completed,2.5,1.53,2.39,1.64,2.6,1.64,2.44,1.55
+58,Vienna,Vienna Open,25/10/2021,ATP500,Indoor,Hard,1st Round,3,Alcaraz C.,Evans D.,42,24,1355,2077,6,4,6,3,,,,,,,2,0,Completed,1.66,2.2,1.8,2.11,1.8,2.38,1.68,2.18
+58,Vienna,Vienna Open,25/10/2021,ATP500,Indoor,Hard,1st Round,3,De Minaur A.,Anderson K.,32,61,1641,1034,6,3,7,6,,,,,,,2,0,Completed,2,1.8,1.99,1.9,2.13,1.91,1.96,1.84
+58,Vienna,Vienna Open,25/10/2021,ATP500,Indoor,Hard,1st Round,3,Murray A.,Hurkacz H.,156,10,431,3378,6,4,6,7,6,3,,,,,2,1,Completed,2.5,1.53,2.53,1.58,2.81,1.63,2.49,1.53
+58,Vienna,Vienna Open,25/10/2021,ATP500,Indoor,Hard,1st Round,3,Berrettini M.,Popyrin A.,7,77,4688,898,7,6,6,3,,,,,,,2,0,Completed,1.28,3.75,1.29,3.98,1.33,3.98,1.29,3.58
+58,Vienna,Vienna Open,26/10/2021,ATP500,Indoor,Hard,1st Round,3,Auger-Aliassime F.,Berankis R.,12,99,3196,764,6,3,6,2,,,,,,,2,0,Completed,1.3,3.5,1.37,3.33,1.37,4.05,1.31,3.46
+58,Vienna,Vienna Open,26/10/2021,ATP500,Indoor,Hard,1st Round,3,Ruud C.,Harris L.,8,31,3615,1658,7,5,7,6,,,,,,,2,0,Completed,1.72,2.1,1.78,2.15,1.8,2.24,1.73,2.1
+58,Vienna,Vienna Open,26/10/2021,ATP500,Indoor,Hard,1st Round,3,Norrie C.,Fucsovics M.,14,39,2895,1439,7,6,6,1,,,,,,,2,0,Completed,1.5,2.62,1.51,2.74,1.53,2.82,1.48,2.64
+58,Vienna,Vienna Open,26/10/2021,ATP500,Indoor,Hard,1st Round,3,Tsitsipas S.,Dimitrov G.,3,22,7930,2151,7,6,6,4,,,,,,,2,0,Completed,1.4,3,1.51,2.74,1.51,3.04,1.42,2.84
+58,Vienna,Vienna Open,26/10/2021,ATP500,Indoor,Hard,1st Round,3,Tiafoe F.,Lajovic D.,49,33,1192,1556,6,4,6,4,,,,,,,2,0,Completed,1.4,3,1.38,3.28,1.42,3.45,1.38,3.02
+58,Vienna,Vienna Open,26/10/2021,ATP500,Indoor,Hard,1st Round,3,Zverev A.,Krajinovic F.,4,40,6680,1402,6,2,7,5,,,,,,,2,0,Completed,1.14,5.5,1.16,5.88,1.17,6.5,1.14,5.53
+58,Vienna,Vienna Open,26/10/2021,ATP500,Indoor,Hard,1st Round,3,Novak D.,Mager G.,116,68,681,954,7,6,7,6,,,,,,,2,0,Completed,1.61,2.3,1.71,2.25,1.88,2.3,1.68,2.17
+58,Vienna,Vienna Open,27/10/2021,ATP500,Indoor,Hard,1st Round,3,Sonego L.,Koepfer D.,23,62,2125,1015,6,4,6,3,,,,,,,2,0,Completed,1.44,2.75,1.43,3,1.5,3.16,1.41,2.89
+58,Vienna,Vienna Open,27/10/2021,ATP500,Indoor,Hard,1st Round,3,Sinner J.,Opelka R.,11,27,3260,1891,6,4,6,2,,,,,,,2,0,Completed,1.28,3.75,1.25,4.38,1.32,4.5,1.25,3.95
+58,Vienna,Vienna Open,27/10/2021,ATP500,Indoor,Hard,1st Round,3,Schwartzman D.,Fognini F.,16,36,2693,1494,6,2,7,5,,,,,,,2,0,Completed,1.33,3.4,1.34,3.53,1.38,3.53,1.35,3.21
+58,Vienna,Vienna Open,27/10/2021,ATP500,Indoor,Hard,1st Round,3,Monfils G.,Musetti L.,21,67,2213,958,7,6,6,4,,,,,,,2,0,Completed,1.25,4,1.28,3.99,1.28,4.26,1.25,3.84
+58,Vienna,Vienna Open,27/10/2021,ATP500,Indoor,Hard,2nd Round,3,Alcaraz C.,Murray A.,42,156,1355,431,6,3,6,4,,,,,,,2,0,Completed,2.3,1.61,2.51,1.6,2.51,1.71,2.29,1.62
+58,Vienna,Vienna Open,27/10/2021,ATP500,Indoor,Hard,2nd Round,3,Berrettini M.,Basilashvili N.,7,25,4688,2066,6,7,6,2,6,3,,,,,2,1,Completed,1.44,2.75,1.42,3.14,1.45,3.3,1.4,2.95
+58,Vienna,Vienna Open,28/10/2021,ATP500,Indoor,Hard,2nd Round,3,Auger-Aliassime F.,Norrie C.,12,14,3196,2895,2,6,7,6,6,4,,,,,2,1,Completed,2.2,1.66,2.05,1.86,2.21,1.86,2.1,1.72
+58,Vienna,Vienna Open,28/10/2021,ATP500,Indoor,Hard,2nd Round,3,Schwartzman D.,Monfils G.,16,21,2693,2213,7,6,4,6,6,2,,,,,2,1,Completed,1.8,2,1.81,2.12,1.83,2.15,1.78,2.02
+58,Vienna,Vienna Open,28/10/2021,ATP500,Indoor,Hard,2nd Round,3,Ruud C.,Sonego L.,8,23,3615,2125,7,5,4,6,6,4,,,,,2,1,Completed,1.36,3.2,1.36,3.44,1.43,3.44,1.36,3.13
+58,Vienna,Vienna Open,28/10/2021,ATP500,Indoor,Hard,2nd Round,3,Sinner J.,Novak D.,11,116,3260,681,6,4,6,2,,,,,,,2,0,Completed,1.08,8,1.1,8.93,1.12,8.93,1.08,7.58
+58,Vienna,Vienna Open,28/10/2021,ATP500,Indoor,Hard,2nd Round,3,Zverev A.,De Minaur A.,4,32,6680,1641,6,2,3,6,6,2,,,,,2,1,Completed,1.16,5,1.2,5.19,1.2,5.75,1.17,4.92
+58,Vienna,Vienna Open,28/10/2021,ATP500,Indoor,Hard,2nd Round,3,Tiafoe F.,Tsitsipas S.,49,3,1192,7930,3,6,6,3,6,4,,,,,2,1,Completed,4,1.25,4.51,1.25,4.8,1.29,4.03,1.24
+58,Vienna,Vienna Open,29/10/2021,ATP500,Indoor,Hard,Quarterfinals,3,Alcaraz C.,Berrettini M.,42,7,1355,4688,6,1,6,7,7,6,,,,,2,1,Completed,2.75,1.44,2.84,1.49,3.02,1.52,2.71,1.46
+58,Vienna,Vienna Open,29/10/2021,ATP500,Indoor,Hard,Quarterfinals,3,Zverev A.,Auger-Aliassime F.,4,12,6680,3196,6,4,3,6,6,3,,,,,2,1,Completed,1.25,4,1.27,4.26,1.31,4.55,1.24,4.07
+58,Vienna,Vienna Open,29/10/2021,ATP500,Indoor,Hard,Quarterfinals,3,Tiafoe F.,Schwartzman D.,49,16,1192,2693,6,4,7,6,,,,,,,2,0,Completed,2.2,1.66,2.2,1.75,2.35,1.75,2.21,1.67
+58,Vienna,Vienna Open,29/10/2021,ATP500,Indoor,Hard,Quarterfinals,3,Sinner J.,Ruud C.,11,8,3260,3615,7,5,6,1,,,,,,,2,0,Completed,1.4,3,1.38,3.31,1.45,3.35,1.39,3
+58,Vienna,Vienna Open,30/10/2021,ATP500,Indoor,Hard,Semifinals,3,Zverev A.,Alcaraz C.,4,42,6680,1355,6,3,6,3,,,,,,,2,0,Completed,1.28,3.75,1.27,4.21,1.39,4.21,1.3,3.56
+58,Vienna,Vienna Open,30/10/2021,ATP500,Indoor,Hard,Semifinals,3,Tiafoe F.,Sinner J.,49,11,1192,3260,3,6,7,5,6,2,,,,,2,1,Completed,4,1.25,4.18,1.27,4.33,1.3,3.86,1.26
+58,Vienna,Vienna Open,31/10/2021,ATP500,Indoor,Hard,The Final,3,Zverev A.,Tiafoe F.,4,49,6680,1192,7,5,6,4,,,,,,,2,0,Completed,1.2,4.5,1.21,5.12,1.24,5.5,1.19,4.74

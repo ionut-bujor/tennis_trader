@@ -1,0 +1,96 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Ivashka I.,60,69,810,761,4,6,7,6,6,2,,,,,2,1,Completed,2.2,1.67,2.36,1.65,2.48,1.7,2.3,1.61
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Gaston H.,Chardy J.,106,635,555,45,6,3,6,4,,,,,,,2,0,Completed,1.3,3.5,1.36,3.43,1.4,3.5,1.34,3.24
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Barrere G.,Nava E.,56,173,848,344,6,0,5,7,6,3,,,,,2,1,Completed,1.53,2.5,1.56,2.57,1.58,2.75,1.5,2.56
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Molcan A.,Wu Y.,58,57,825,843,6,2,6,4,,,,,,,2,0,Completed,1.4,3,1.44,2.99,1.46,3.3,1.39,2.97
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Halys Q.,Popyrin A.,66,75,771,721,4,6,6,4,6,4,,,,,2,1,Completed,1.67,2.2,1.74,2.2,1.77,2.3,1.69,2.16
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Bublik A.,Galan D.E.,55,100,865,586,7,6,6,7,6,4,,,,,2,1,Completed,1.8,2,1.93,1.95,1.93,2,1.84,1.95
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Carballes Baena R.,Goffin D.,53,95,867,615,6,4,6,4,,,,,,,2,0,Completed,1.5,2.63,1.6,2.49,1.6,2.69,1.54,2.45
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Hanfmann Y.,Varillas J. P.,108,87,548,667,6,4,3,6,6,3,,,,,2,1,Completed,1.44,2.75,1.46,2.9,1.6,3.03,1.44,2.77
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Wawrinka S.,Cressy M.,84,39,692,1010,6,7,6,3,7,6,,,,,2,1,Completed,1.44,2.75,1.45,2.94,1.45,3.16,1.4,2.92
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Grenier H.,Schwartzman D.,128,72,466,730,7,5,6,4,,,,,,,2,0,Completed,4,1.25,3.96,1.29,4,1.3,3.76,1.27
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Otte O.,Kotov P.,98,101,606,583,6,3,4,6,6,4,,,,,2,1,Completed,1.73,2.1,1.79,2.09,1.79,2.2,1.72,2.11
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Arnaldi M.,Paire B.,105,161,556,377,6,1,3,6,7,6,,,,,2,1,Completed,1.53,2.5,1.57,2.55,1.58,2.9,1.52,2.51
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Ruusuvuori E.,Humbert U.,41,77,977,718,7,6,7,6,,,,,,,2,0,Completed,1.5,2.63,1.53,2.66,1.56,2.85,1.5,2.56
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Munar J.,Kokkinakis T.,88,111,666,534,7,6,7,6,,,,,,,2,0,Completed,1.8,2,1.81,2.1,1.92,2.12,1.77,2.04
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Monteiro T.,Gojo B.,97,110,608,538,7,6,4,6,6,3,,,,,2,1,Completed,1.91,1.91,2,1.89,2.02,2,1.91,1.88
+27,Madrid,Mutua Madrid Open,26/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Gasquet R.,Landaluce M.,43,894,951,16,6,2,6,1,,,,,,,2,0,Completed,1.14,5.5,1.16,6.07,1.17,6.1,1.14,5.54
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Etcheverry T.,Mannarino A.,59,46,814,917,6,4,6,0,,,,,,,2,0,Completed,1.2,4.5,1.27,4.13,1.31,4.54,1.25,3.97
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Shevchenko A.,Wolf J.J.,96,49,610,880,6,4,6,4,,,,,,,2,0,Completed,1.53,2.5,1.68,2.31,1.69,2.5,1.61,2.31
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Safiullin R.,Jarry N.,112,51,525,878,6,2,3,6,6,3,,,,,2,1,Completed,3.2,1.36,3.19,1.4,3.38,1.4,3.15,1.36
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Thiem D.,Edmund K.,93,498,625,75,6,4,6,1,,,,,,,2,0,Completed,1.14,5.5,1.18,5.49,1.22,5.55,1.17,5.09
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Zhang Zh.,Rodionov J.,99,119,606,502,7,6,6,4,,,,,,,2,0,Completed,2.1,1.73,2.21,1.74,2.26,1.76,2.15,1.7
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Watanuki Y.,Moutet C.,117,64,502,780,6,3,6,3,,,,,,,2,0,Completed,1.5,2.63,1.53,2.65,1.57,2.65,1.51,2.55
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Garin C.,Huesler M.A.,73,76,723,720,7,6,6,2,,,,,,,2,0,Completed,1.29,3.75,1.39,3.25,1.4,3.75,1.33,3.35
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Cachin P.,Shelbayh A.,67,243,767,233,6,1,6,4,,,,,,,2,0,Completed,1.4,3,1.52,2.69,1.56,3,1.44,2.78
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Struff J.L.,Sonego L.,65,47,779,890,6,3,6,1,,,,,,,2,0,Completed,2.1,1.73,2.09,1.82,2.35,1.82,2.12,1.72
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Giron M.,Borges N.,61,74,801,723,6,2,7,6,,,,,,,2,0,Completed,2.1,1.73,2.1,1.81,2.29,1.85,2.06,1.77
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Cecchinato M.,Fucsovics M.,85,83,688,697,7,6,6,3,,,,,,,2,0,Completed,2.38,1.57,2.59,1.56,2.59,1.59,2.44,1.55
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,O Connell C.,Krajinovic F.,81,79,710,711,6,4,6,7,6,2,,,,,2,1,Completed,1.67,2.2,1.81,2.11,1.82,2.23,1.73,2.1
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Vavassori A.,Murray A.,164,52,369,870,6,2,7,6,,,,,,,2,0,Completed,2.3,1.62,2.3,1.68,2.51,1.72,2.24,1.65
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Lajovic D.,Kubler J.,40,63,994,782,6,3,6,3,,,,,,,2,0,Completed,1.53,2.5,1.57,2.54,1.65,2.66,1.58,2.39
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Zapata Miralles B.,Mcdonald M.,42,54,958,865,3,6,6,3,7,6,,,,,2,1,Completed,1.57,2.38,1.63,2.42,1.65,2.45,1.59,2.35
+27,Madrid,Mutua Madrid Open,27/04/2023,Masters 1000,Outdoor,Clay,1st Round,3,Karatsev A.,Djere L.,121,70,497,741,7,6,7,5,,,,,,,2,0,Completed,2.3,1.62,2.33,1.67,2.38,1.68,2.3,1.61
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Arnaldi M.,Ruud C.,105,4,556,5210,6,3,6,4,,,,,,,2,0,Completed,5,1.17,5.21,1.2,5.21,1.22,4.75,1.19
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Munar J.,Griekspoor T.,88,36,666,1094,7,6,,,,,,,,,1,0,Retired,2,1.8,2.05,1.87,2.12,1.9,2.01,1.8
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Altmaier D.,Otte O.,92,98,633,606,6,4,7,5,,,,,,,2,0,Completed,2,1.8,2.04,1.87,2.05,1.96,1.96,1.84
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Nishioka Y.,Molcan A.,34,58,1138,825,5,7,6,4,6,4,,,,,2,1,Completed,2.38,1.57,2.58,1.57,2.58,1.63,2.38,1.58
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Hanfmann Y.,Musetti L.,108,18,548,2065,6,4,7,6,,,,,,,2,0,Completed,3,1.4,2.98,1.45,3,1.5,2.81,1.43
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Rublev A.,Wawrinka S.,6,84,4280,692,7,5,6,4,,,,,,,2,0,Completed,1.29,3.75,1.32,3.75,1.33,4,1.29,3.57
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Dimitrov G.,Barrere G.,32,56,1170,848,7,6,7,6,,,,,,,2,0,Completed,1.17,5,1.23,4.72,1.23,5.25,1.2,4.57
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Khachanov K.,Monteiro T.,12,97,2855,608,6,3,3,6,6,3,,,,,2,1,Completed,1.25,4,1.27,4.31,1.28,4.31,1.25,3.96
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Alcaraz C.,Ruusuvuori E.,2,41,6770,977,2,6,6,4,6,2,,,,,2,1,Completed,1.04,13,1.04,16.71,1.05,17.8,1.04,12.09
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Bautista Agut R.,Halys Q.,25,66,1475,771,4,6,7,6,6,3,,,,,2,1,Completed,1.67,2.2,1.84,2.08,1.84,2.2,1.74,2.1
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Coric B.,Gaston H.,20,106,1890,555,6,3,6,3,,,,,,,2,0,Completed,1.44,2.75,1.48,2.86,1.5,2.9,1.45,2.75
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Grenier H.,Korda S.,128,28,466,1390,7,6,7,6,,,,,,,2,0,Completed,3.4,1.33,3.46,1.34,3.6,1.38,3.34,1.32
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Hurkacz H.,Gasquet R.,15,43,2660,951,6,7,6,4,7,5,,,,,2,1,Completed,1.25,4,1.27,4.24,1.27,4.34,1.24,4
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Rune H.,Bublik A.,7,55,4070,865,6,1,4,6,7,6,,,,,2,1,Completed,1.13,6,1.17,5.98,1.19,6.05,1.15,5.44
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Davidovich Fokina A.,Ramos-Vinolas A.,35,60,1095,810,6,3,6,4,,,,,,,2,0,Completed,1.2,4.5,1.19,5.5,1.23,5.5,1.2,4.5
+27,Madrid,Mutua Madrid Open,28/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Zverev A.,Carballes Baena R.,16,53,2140,867,6,7,7,5,6,0,,,,,2,1,Completed,1.22,4.33,1.3,3.87,1.3,4.58,1.25,3.91
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Shevchenko A.,Lehecka J.,96,37,610,1046,6,1,6,1,,,,,,,2,0,Completed,3.2,1.36,3,1.45,3.2,1.47,2.93,1.4
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Struff J.L.,Shelton B.,65,38,779,1042,4,6,7,6,7,5,,,,,2,1,Completed,1.44,2.75,1.4,3.21,1.46,3.21,1.4,2.92
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Medvedev D.,Vavassori A.,3,164,5240,369,6,4,6,3,,,,,,,2,0,Completed,1.11,6.5,1.12,7.57,1.12,7.85,1.11,6.75
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Safiullin R.,Paul T.,112,17,525,2070,6,3,7,6,,,,,,,2,0,Completed,2.63,1.5,2.74,1.52,2.75,1.56,2.61,1.49
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Karatsev A.,Van De Zandschulp B.,121,29,497,1390,6,2,7,5,,,,,,,2,0,Completed,2.75,1.44,2.67,1.54,2.8,1.54,2.63,1.48
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Lajovic D.,Auger-Aliassime F.,40,9,994,3405,6,2,3,6,7,6,,,,,2,1,Completed,2.1,1.73,2.11,1.81,2.21,1.81,2.11,1.72
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Zapata Miralles B.,Evans D.,42,24,958,1560,6,3,6,2,,,,,,,2,0,Completed,2.1,1.73,2.15,1.79,2.17,1.81,2.1,1.73
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,De Minaur A.,Cecchinato M.,19,85,1995,688,6,4,7,6,,,,,,,2,0,Completed,1.44,2.75,1.47,2.89,1.51,2.89,1.45,2.73
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Baez S.,Giron M.,31,61,1190,801,3,6,6,3,6,4,,,,,2,1,Completed,1.53,2.5,1.63,2.44,1.63,2.5,1.56,2.41
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Fritz T.,O Connell C.,10,81,3290,710,7,6,6,4,,,,,,,2,0,Completed,1.3,3.5,1.29,4.01,1.31,4.01,1.28,3.62
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Tiafoe F.,Etcheverry T.,11,59,2870,814,6,3,7,6,,,,,,,2,0,Completed,1.62,2.3,1.61,2.48,1.63,2.48,1.59,2.35
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Garin C.,Kecmanovic M.,73,33,723,1170,7,6,6,7,6,4,,,,,2,1,Completed,1.91,1.91,1.88,2.04,2.1,2.07,1.86,1.94
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Cachin P.,Cerundolo F.,67,30,767,1235,6,1,7,6,,,,,,,2,0,Completed,3.5,1.3,3.44,1.36,3.6,1.37,3.38,1.32
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Norrie C.,Watanuki Y.,13,117,2725,502,6,4,7,6,,,,,,,2,0,Completed,1.25,4,1.24,4.57,1.28,4.57,1.23,4.16
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Zhang Zh.,Shapovalov D.,99,27,606,1425,6,7,6,4,7,6,,,,,2,1,Completed,2.75,1.44,2.9,1.47,2.95,1.49,2.82,1.43
+27,Madrid,Mutua Madrid Open,29/04/2023,Masters 1000,Outdoor,Clay,2nd Round,3,Tsitsipas S.,Thiem D.,5,93,5195,625,3,6,6,1,7,6,,,,,2,1,Completed,1.2,4.5,1.23,4.81,1.23,5.27,1.2,4.53
+27,Madrid,Mutua Madrid Open,30/04/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Khachanov K.,Bautista Agut R.,12,25,2855,1475,7,5,4,6,6,3,,,,,2,1,Completed,1.57,2.38,1.61,2.48,1.64,2.48,1.58,2.36
+27,Madrid,Mutua Madrid Open,30/04/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Munar J.,Arnaldi M.,88,105,666,556,3,6,6,3,6,1,,,,,2,1,Completed,2,1.8,2.12,1.81,2.12,1.87,2.02,1.8
+27,Madrid,Mutua Madrid Open,30/04/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Rublev A.,Nishioka Y.,6,34,4280,1138,6,2,7,5,,,,,,,2,0,Completed,1.14,5.5,1.21,5.14,1.23,5.5,1.18,4.87
+27,Madrid,Mutua Madrid Open,30/04/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Zverev A.,Grenier H.,16,128,2140,466,6,1,6,0,,,,,,,2,0,Completed,1.1,7,1.13,7.48,1.13,8.4,1.1,7.04
+27,Madrid,Mutua Madrid Open,30/04/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Coric B.,Hurkacz H.,20,15,1890,2660,7,6,6,3,,,,,,,2,0,Completed,2.63,1.5,2.83,1.49,2.85,1.54,2.69,1.46
+27,Madrid,Mutua Madrid Open,30/04/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Alcaraz C.,Dimitrov G.,2,32,6770,1170,6,2,7,5,,,,,,,2,0,Completed,1.1,7,1.09,9.42,1.1,9.7,1.08,7.92
+27,Madrid,Mutua Madrid Open,30/04/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Altmaier D.,Hanfmann Y.,92,108,633,548,7,6,6,3,,,,,,,2,0,Completed,2.75,1.44,2.88,1.48,2.9,1.5,2.76,1.44
+27,Madrid,Mutua Madrid Open,30/04/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Davidovich Fokina A.,Rune H.,35,7,1095,4070,7,6,5,7,7,6,,,,,2,1,Completed,2.75,1.44,2.91,1.47,2.92,1.52,2.68,1.47
+27,Madrid,Mutua Madrid Open,01/05/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Medvedev D.,Shevchenko A.,3,96,5240,610,4,6,6,1,7,5,,,,,2,1,Completed,1.13,6,1.16,6.27,1.18,6.76,1.14,5.71
+27,Madrid,Mutua Madrid Open,01/05/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Struff J.L.,Lajovic D.,65,40,779,994,6,7,6,3,6,3,,,,,2,1,Completed,2.2,1.67,2.25,1.72,2.3,1.73,2.2,1.67
+27,Madrid,Mutua Madrid Open,01/05/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Karatsev A.,De Minaur A.,121,19,497,1995,6,3,4,6,6,4,,,,,2,1,Completed,2.38,1.57,2.46,1.62,2.5,1.62,2.39,1.57
+27,Madrid,Mutua Madrid Open,01/05/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Cachin P.,Tiafoe F.,67,11,767,2870,6,1,7,6,,,,,,,2,0,Completed,3.75,1.29,3.91,1.3,4,1.32,3.62,1.29
+27,Madrid,Mutua Madrid Open,01/05/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Zapata Miralles B.,Safiullin R.,42,112,958,525,6,3,3,6,6,3,,,,,2,1,Completed,1.57,2.38,1.68,2.34,1.75,2.6,1.62,2.29
+27,Madrid,Mutua Madrid Open,01/05/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Fritz T.,Garin C.,10,73,3290,723,6,1,7,6,,,,,,,2,0,Completed,1.44,2.75,1.51,2.75,1.54,2.8,1.47,2.67
+27,Madrid,Mutua Madrid Open,01/05/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Tsitsipas S.,Baez S.,5,31,5195,1190,7,5,3,6,6,3,,,,,2,1,Completed,1.14,5.5,1.17,5.79,1.17,6.07,1.15,5.36
+27,Madrid,Mutua Madrid Open,01/05/2023,Masters 1000,Outdoor,Clay,3rd Round,3,Zhang Zh.,Norrie C.,99,13,606,2725,2,6,7,6,7,6,,,,,2,1,Completed,4.33,1.22,4.23,1.27,4.5,1.27,4.17,1.23
+27,Madrid,Mutua Madrid Open,02/05/2023,Masters 1000,Outdoor,Clay,4th Round,3,Altmaier D.,Munar J.,92,88,633,666,6,3,6,0,,,,,,,2,0,Completed,2.38,1.57,2.4,1.65,2.45,1.69,2.33,1.6
+27,Madrid,Mutua Madrid Open,02/05/2023,Masters 1000,Outdoor,Clay,4th Round,3,Khachanov K.,Rublev A.,12,6,2855,4280,7,6,6,4,,,,,,,2,0,Completed,2.63,1.5,2.71,1.53,2.79,1.55,2.62,1.49
+27,Madrid,Mutua Madrid Open,02/05/2023,Masters 1000,Outdoor,Clay,4th Round,3,Karatsev A.,Medvedev D.,121,3,497,5240,7,6,6,4,,,,,,,2,0,Completed,3.75,1.29,3.81,1.31,4,1.35,3.52,1.3
+27,Madrid,Mutua Madrid Open,02/05/2023,Masters 1000,Outdoor,Clay,4th Round,3,Coric B.,Davidovich Fokina A.,20,35,1890,1095,6,7,6,3,7,6,,,,,2,1,Completed,2.5,1.53,2.57,1.57,2.61,1.58,2.47,1.54
+27,Madrid,Mutua Madrid Open,02/05/2023,Masters 1000,Outdoor,Clay,4th Round,3,Alcaraz C.,Zverev A.,2,16,6770,2140,6,1,6,2,,,,,,,2,0,Completed,1.22,4.33,1.24,4.59,1.26,4.59,1.22,4.2
+27,Madrid,Mutua Madrid Open,02/05/2023,Masters 1000,Outdoor,Clay,4th Round,3,Zhang Zh.,Fritz T.,99,10,606,3290,3,6,7,6,7,6,,,,,2,1,Completed,5,1.17,6.44,1.15,6.65,1.24,5.56,1.15
+27,Madrid,Mutua Madrid Open,02/05/2023,Masters 1000,Outdoor,Clay,4th Round,3,Struff J.L.,Cachin P.,65,67,779,767,7,6,6,7,6,3,,,,,2,1,Completed,1.62,2.3,1.68,2.32,1.75,2.35,1.65,2.24
+27,Madrid,Mutua Madrid Open,02/05/2023,Masters 1000,Outdoor,Clay,4th Round,3,Tsitsipas S.,Zapata Miralles B.,5,42,5195,958,6,3,6,1,,,,,,,2,0,Completed,1.14,5.5,1.17,5.91,1.18,6.05,1.15,5.38
+27,Madrid,Mutua Madrid Open,03/05/2023,Masters 1000,Outdoor,Clay,Quarterfinals,3,Alcaraz C.,Khachanov K.,2,12,6770,2855,6,4,7,5,,,,,,,2,0,Completed,1.07,9,1.11,8.15,1.11,10.6,1.07,8.42
+27,Madrid,Mutua Madrid Open,03/05/2023,Masters 1000,Outdoor,Clay,Quarterfinals,3,Coric B.,Altmaier D.,20,92,1890,633,6,3,6,3,,,,,,,2,0,Completed,1.5,2.63,1.52,2.73,1.61,2.75,1.51,2.57
+27,Madrid,Mutua Madrid Open,04/05/2023,Masters 1000,Outdoor,Clay,Quarterfinals,3,Karatsev A.,Zhang Zh.,121,99,497,606,7,6,6,4,,,,,,,2,0,Completed,1.57,2.38,1.67,2.35,1.68,2.57,1.59,2.35
+27,Madrid,Mutua Madrid Open,04/05/2023,Masters 1000,Outdoor,Clay,Quarterfinals,3,Struff J.L.,Tsitsipas S.,65,5,779,5195,7,6,5,7,6,3,,,,,2,1,Completed,4.5,1.2,4.93,1.2,5.35,1.23,4.7,1.19
+27,Madrid,Mutua Madrid Open,05/05/2023,Masters 1000,Outdoor,Clay,Semifinals,3,Alcaraz C.,Coric B.,2,20,6770,1890,6,4,6,3,,,,,,,2,0,Completed,1.06,10,1.08,10.65,1.12,10.65,1.07,8.59
+27,Madrid,Mutua Madrid Open,05/05/2023,Masters 1000,Outdoor,Clay,Semifinals,3,Struff J.L.,Karatsev A.,65,121,779,497,4,6,6,3,6,4,,,,,2,1,Completed,2,1.8,2.11,1.82,2.17,1.85,2.03,1.79
+27,Madrid,Mutua Madrid Open,07/05/2023,Masters 1000,Outdoor,Clay,The Final,3,Alcaraz C.,Struff J.L.,2,65,6770,779,6,4,3,6,6,3,,,,,2,1,Completed,1.06,10,1.08,11.06,1.09,12.75,1.06,9.47

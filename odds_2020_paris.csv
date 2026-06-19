@@ -1,0 +1,56 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Coric B.,Fucsovics M.,24,52,1820,1047,7,6,6,1,,,,,,,2,0,Completed,1.4,2.75,1.52,2.72,1.52,3.13,1.44,2.8
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Albot R.,Hurkacz H.,90,33,772,1518,7,5,6,7,6,4,,,,,2,1,Completed,3.75,1.25,3.67,1.33,3.94,1.37,3.49,1.3
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Lopez F.,Krajinovic F.,64,30,953,1628,7,6,6,1,,,,,,,2,0,Completed,3.75,1.25,4.28,1.26,4.3,1.31,3.87,1.26
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Giron M.,Ramos-Vinolas A.,91,46,769,1165,6,3,4,6,6,1,,,,,2,1,Completed,1.3,3.4,1.41,3.18,1.41,3.4,1.36,3.17
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Moutet C.,Caruso S.,75,81,838,802,3,6,7,6,6,3,,,,,2,1,Completed,1.8,1.95,1.84,2.08,1.91,2.1,1.82,2
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Thompson J.,Delbonis F.,61,78,994,816,6,2,6,3,,,,,,,2,0,Completed,1.53,2.37,1.68,2.32,1.68,2.75,1.59,2.37
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Gombos N.,Cecchinato M.,105,79,682,811,6,2,7,6,,,,,,,2,0,Completed,1.57,2.25,1.6,2.51,1.63,2.6,1.57,2.4
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Struff J.L.,Basilashvili N.,35,39,1450,1395,6,4,6,2,,,,,,,2,0,Completed,1.12,6,1.17,6.01,1.19,6.7,1.14,5.77
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Humbert U.,Ruud C.,34,27,1466,1739,4,6,6,2,7,6,,,,,2,1,Completed,1.33,3.25,1.37,3.39,1.4,3.4,1.35,3.21
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,De Minaur A.,Travaglia S.,25,74,1815,849,6,4,6,4,,,,,,,2,0,Completed,1.18,4.5,1.16,6.16,1.22,6.16,1.17,5.22
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Bonzi B.,Coria F.,180,93,346,757,6,2,6,1,,,,,,,2,0,Completed,1.4,2.75,1.34,3.56,1.45,3.56,1.36,3.18
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Cilic M.,Auger-Aliassime F.,43,21,1280,2171,6,0,3,6,6,3,,,,,2,1,Completed,3,1.36,3.31,1.38,3.6,1.54,3.13,1.37
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Davidovich Fokina A.,Khachanov K.,63,19,963,2245,6,3,2,6,6,2,,,,,2,1,Completed,2.37,1.53,2.43,1.63,2.5,1.65,2.37,1.59
+30,Paris,BNP Paribas Masters,02/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Carreno Busta P.,Gaston H.,15,161,2400,390,6,3,6,2,,,,,,,2,0,Completed,1.28,3.5,1.29,4.05,1.36,4.3,1.26,3.89
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Nishioka Y.,Andujar P.,51,57,1052,1024,5,7,6,4,6,2,,,,,2,1,Completed,1.28,3.5,1.27,4.28,1.31,4.28,1.27,3.79
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Raonic M.,Bedene A.,17,53,2265,1045,6,3,6,2,,,,,,,2,0,Completed,1.18,4.5,1.21,5.09,1.22,5.09,1.2,4.6
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Wawrinka S.,Evans D.,20,31,2230,1589,6,3,7,6,,,,,,,2,0,Completed,1.44,2.62,1.53,2.69,1.54,2.88,1.49,2.64
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Anderson K.,Djere L.,86,54,780,1042,5,2,,,,,,,,,0,0,Retired,1.22,4,1.27,4.18,1.28,4.3,1.25,3.96
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Gasquet R.,Fritz T.,56,29,1030,1670,6,0,3,6,6,3,,,,,2,1,Completed,2.2,1.61,2.22,1.74,2.3,1.76,2.19,1.68
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Herbert P.H.,Sandgren T.,85,48,787,1078,2,6,6,4,7,6,,,,,2,1,Completed,1.57,2.25,1.6,2.5,1.65,2.6,1.57,2.41
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Sonego L.,Bublik A.,32,49,1543,1070,6,1,6,4,,,,,,,2,0,Completed,1.61,2.2,1.72,2.26,1.77,2.3,1.7,2.15
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Paul T.,Simon G.,55,59,1035,1005,3,6,6,3,6,3,,,,,2,1,Completed,2.62,1.44,2.72,1.52,2.75,1.56,2.61,1.5
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Mannarino A.,Lajovic D.,36,26,1426,1785,7,6,6,3,,,,,,,2,0,Completed,1.8,1.95,1.79,2.14,1.87,2.2,1.78,2.03
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,1st Round,3,Kecmanovic M.,Millman J.,42,38,1283,1396,6,4,6,2,,,,,,,2,0,Completed,1.61,2.2,1.74,2.22,1.79,2.3,1.68,2.19
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Gombos N.,Goffin D.,105,14,682,2555,6,4,7,6,,,,,,,2,0,Completed,2.25,1.57,2.19,1.76,2.54,1.76,2.2,1.68
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Cilic M.,Moutet C.,43,75,1280,838,,,,,,,,,,,,,Walkover,1.33,3.25,1.43,3.04,1.43,3.4,1.36,3.13
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Carreno Busta P.,Struff J.L.,15,35,2400,1450,7,6,6,2,,,,,,,2,0,Completed,1.75,2,1.96,1.94,1.96,2.26,1.84,1.97
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Humbert U.,Tsitsipas S.,34,6,1466,5925,7,6,6,7,7,6,,,,,2,1,Completed,2.5,1.5,2.7,1.53,3.2,1.53,2.73,1.46
+30,Paris,BNP Paribas Masters,03/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Giron M.,Berrettini M.,91,10,769,3075,7,6,6,7,7,5,,,,,2,1,Completed,3.4,1.3,3.21,1.4,3.54,1.41,3.15,1.36
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Medvedev D.,Anderson K.,5,86,5980,780,6,6,,,,,,,,,0,0,Retired,1.36,3,1.4,3.22,1.45,3.25,1.38,3.04
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Davidovich Fokina A.,Bonzi B.,63,180,963,346,6,4,6,4,,,,,,,2,0,Completed,1.2,4.33,1.26,4.3,1.26,4.6,1.23,4.15
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Schwartzman D.,Gasquet R.,9,56,3285,1030,7,5,6,3,,,,,,,2,0,Completed,1.44,2.62,1.55,2.65,1.57,3.04,1.48,2.64
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Mannarino A.,Nishioka Y.,36,51,1426,1052,6,3,6,7,6,3,,,,,2,1,Completed,1.75,2,1.91,2,1.97,2.17,1.88,1.93
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Raonic M.,Herbert P.H.,17,85,2265,787,6,4,6,4,,,,,,,2,0,Completed,1.18,4.5,1.16,6.1,1.19,6.25,1.16,5.34
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,De Minaur A.,Sonego L.,25,32,1815,1543,6,3,7,5,,,,,,,2,0,Completed,1.44,2.62,1.47,2.92,1.47,3,1.44,2.81
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Zverev A.,Kecmanovic M.,7,42,5015,1283,6,2,6,2,,,,,,,2,0,Completed,1.33,3.25,1.35,3.53,1.4,3.55,1.33,3.34
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Thompson J.,Coric B.,61,24,994,1820,2,6,6,4,6,2,,,,,2,1,Completed,5,1.16,4.93,1.22,6.75,1.25,5.12,1.17
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Nadal R.,Lopez F.,2,64,9850,953,4,6,7,6,6,4,,,,,2,1,Completed,1.11,6.5,1.08,10.62,1.12,11.25,1.08,8.31
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Rublev A.,Albot R.,8,90,3839,772,6,1,6,2,,,,,,,2,0,Completed,1.08,8,1.07,10.66,1.1,12,1.07,8.82
+30,Paris,BNP Paribas Masters,04/11/2020,Masters 1000,Indoor,Hard,2nd Round,3,Wawrinka S.,Paul T.,20,55,2230,1035,4,6,7,6,6,2,,,,,2,1,Completed,1.4,2.75,1.42,3.13,1.44,3.3,1.39,2.98
+30,Paris,BNP Paribas Masters,05/11/2020,Masters 1000,Indoor,Hard,3rd Round,3,Schwartzman D.,Davidovich Fokina A.,9,63,3285,963,6,1,6,1,,,,,,,2,0,Completed,1.44,2.75,1.49,2.87,1.51,3.04,1.45,2.75
+30,Paris,BNP Paribas Masters,05/11/2020,Masters 1000,Indoor,Hard,3rd Round,3,Medvedev D.,De Minaur A.,5,25,5980,1815,5,7,6,2,6,2,,,,,2,1,Completed,1.53,2.5,1.59,2.55,1.67,2.6,1.57,2.44
+30,Paris,BNP Paribas Masters,05/11/2020,Masters 1000,Indoor,Hard,3rd Round,3,Raonic M.,Giron M.,17,91,2265,769,7,6,6,2,,,,,,,2,0,Completed,1.14,5.5,1.12,7.7,1.16,7.7,1.13,6.2
+30,Paris,BNP Paribas Masters,05/11/2020,Masters 1000,Indoor,Hard,3rd Round,3,Humbert U.,Cilic M.,34,43,1466,1280,6,3,6,7,6,3,,,,,2,1,Completed,1.53,2.5,1.63,2.47,1.71,2.61,1.57,2.43
+30,Paris,BNP Paribas Masters,05/11/2020,Masters 1000,Indoor,Hard,3rd Round,3,Carreno Busta P.,Gombos N.,15,105,2400,682,7,5,6,2,,,,,,,2,0,Completed,1.3,3.5,1.35,3.59,1.38,3.95,1.3,3.58
+30,Paris,BNP Paribas Masters,05/11/2020,Masters 1000,Indoor,Hard,3rd Round,3,Nadal R.,Thompson J.,2,61,9850,994,6,1,7,6,,,,,,,2,0,Completed,1.06,10,1.07,11.62,1.08,15,1.05,10.31
+30,Paris,BNP Paribas Masters,05/11/2020,Masters 1000,Indoor,Hard,3rd Round,3,Zverev A.,Mannarino A.,7,36,5015,1426,7,6,6,7,6,4,,,,,2,1,Completed,1.16,5,1.2,5.44,1.2,5.52,1.17,5.05
+30,Paris,BNP Paribas Masters,05/11/2020,Masters 1000,Indoor,Hard,3rd Round,3,Wawrinka S.,Rublev A.,20,8,2230,3839,1,6,6,4,6,3,,,,,2,1,Completed,4.5,1.2,5.11,1.21,5.11,1.22,4.65,1.2
+30,Paris,BNP Paribas Masters,06/11/2020,Masters 1000,Indoor,Hard,Quarterfinals,3,Medvedev D.,Schwartzman D.,5,9,5980,3285,6,3,6,1,,,,,,,2,0,Completed,1.44,2.75,1.47,2.97,1.48,2.99,1.44,2.81
+30,Paris,BNP Paribas Masters,06/11/2020,Masters 1000,Indoor,Hard,Quarterfinals,3,Raonic M.,Humbert U.,17,34,2265,1466,6,3,3,6,7,6,,,,,2,1,Completed,1.4,3,1.37,3.44,1.42,3.6,1.37,3.14
+30,Paris,BNP Paribas Masters,06/11/2020,Masters 1000,Indoor,Hard,Quarterfinals,3,Nadal R.,Carreno Busta P.,2,15,9850,2400,4,6,7,5,6,1,,,,,2,1,Completed,1.12,6,1.19,5.49,1.19,6.15,1.16,5.31
+30,Paris,BNP Paribas Masters,06/11/2020,Masters 1000,Indoor,Hard,Quarterfinals,3,Zverev A.,Wawrinka S.,7,20,5015,2230,6,3,7,6,,,,,,,2,0,Completed,1.44,2.75,1.49,2.87,1.5,3,1.45,2.78
+30,Paris,BNP Paribas Masters,07/11/2020,Masters 1000,Indoor,Hard,Semifinals,3,Medvedev D.,Raonic M.,5,17,5980,2265,6,4,7,6,,,,,,,2,0,Completed,1.44,2.75,1.56,2.66,1.56,2.82,1.48,2.66
+30,Paris,BNP Paribas Masters,07/11/2020,Masters 1000,Indoor,Hard,Semifinals,3,Zverev A.,Nadal R.,7,2,5015,9850,6,4,7,5,,,,,,,2,0,Completed,2.37,1.57,2.57,1.58,2.68,1.65,2.42,1.57
+30,Paris,BNP Paribas Masters,08/11/2020,Masters 1000,Indoor,Hard,The Final,3,Medvedev D.,Zverev A.,5,7,5980,5015,5,7,6,4,6,1,,,,,2,1,Completed,1.9,1.9,2.01,1.92,2.05,2,1.91,1.9

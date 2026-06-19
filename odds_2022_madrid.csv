@@ -1,0 +1,56 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+28,Madrid,Mutua Madrid Open,01/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Draper J.,Sonego L.,121,28,544,1540,6,4,6,3,,,,,,,2,0,Completed,3.5,1.3,3.74,1.32,3.9,1.33,3.51,1.3
+28,Madrid,Mutua Madrid Open,01/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Isner J.,Krajinovic F.,23,56,1706,960,7,6,6,4,,,,,,,2,0,Completed,1.57,2.37,1.56,2.6,1.63,2.65,1.58,2.39
+28,Madrid,Mutua Madrid Open,01/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Evans D.,Delbonis F.,36,37,1242,1219,6,3,6,4,,,,,,,2,0,Completed,2.1,1.72,1.96,1.94,2.13,1.94,2.01,1.8
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Davidovich Fokina A.,Harris L.,29,38,1470,1200,7,5,6,3,,,,,,,2,0,Completed,1.33,3.4,1.34,3.58,1.37,3.66,1.32,3.38
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,De Minaur A.,Martinez P.,22,44,1736,1105,7,6,1,6,6,3,,,,,2,1,Completed,1.5,2.62,1.53,2.8,1.53,2.86,1.49,2.6
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Sinner J.,Paul T.,12,35,3015,1243,6,7,7,6,6,3,,,,,2,1,Completed,1.25,4,1.26,4.31,1.28,4.5,1.24,3.97
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Lajovic D.,Coric B.,77,264,801,191,6,3,4,6,6,4,,,,,2,1,Completed,1.8,2,1.83,2.09,1.92,2.17,1.8,2.01
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Musetti L.,Ivashka I.,63,48,896,1017,2,6,6,3,7,5,,,,,2,1,Completed,1.44,2.75,1.41,3.15,1.47,3.24,1.42,2.87
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Monfils G.,Gimeno Valero C.,21,369,1745,114,6,3,6,0,,,,,,,2,0,Completed,1.25,4,1.25,4.48,1.29,4.54,1.22,4.14
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Basilashvili N.,Fognini F.,27,51,1583,986,7,5,6,4,,,,,,,2,0,Completed,2.5,1.53,2.62,1.56,2.62,1.63,2.5,1.53
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Schwartzman D.,Paire B.,15,62,2805,899,6,2,6,7,6,1,,,,,2,1,Completed,1.2,4.5,1.22,4.9,1.22,4.98,1.2,4.57
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Goffin D.,Karatsev A.,60,34,913,1253,6,2,7,5,,,,,,,2,0,Completed,1.66,2.2,1.68,2.32,1.68,2.58,1.6,2.33
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Norrie C.,Kwon S.W.,11,73,3335,828,7,5,7,5,,,,,,,2,0,Completed,1.3,3.5,1.36,3.46,1.36,3.76,1.31,3.45
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Dimitrov G.,Cressy M.,20,64,1750,888,6,2,7,6,,,,,,,2,0,Completed,1.33,3.4,1.34,3.61,1.34,4,1.29,3.55
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Murray A.,Thiem D.,78,91,783,725,6,3,6,4,,,,,,,2,0,Completed,2.2,1.66,2.18,1.77,2.4,1.77,2.2,1.67
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Shapovalov D.,Humbert U.,16,46,2671,1053,7,6,6,3,,,,,,,2,0,Completed,1.66,2.2,1.71,2.27,1.73,2.4,1.66,2.22
+28,Madrid,Mutua Madrid Open,02/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Pouille L.,Khachanov K.,174,26,338,1633,6,3,6,4,,,,,,,2,0,Completed,5,1.16,5.69,1.18,5.69,1.2,5.03,1.17
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Hurkacz H.,Dellien H.,14,81,3008,775,7,5,6,7,6,3,,,,,2,1,Completed,1.3,3.5,1.37,3.39,1.38,3.92,1.33,3.29
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Cilic M.,Ramos-Vinolas A.,24,43,1695,1106,6,3,3,6,6,4,,,,,2,1,Completed,1.72,2.1,1.78,2.17,1.78,2.29,1.7,2.16
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Bautista Agut R.,Brooksby J.,19,42,1993,1107,6,0,6,2,,,,,,,2,0,Completed,1.72,2.1,1.75,2.21,1.78,2.37,1.73,2.12
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Kecmanovic M.,Bublik A.,32,33,1291,1263,6,4,7,5,,,,,,,2,0,Completed,1.33,3.4,1.35,3.53,1.38,3.7,1.32,3.38
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Garin C.,Tiafoe F.,39,25,1168,1640,6,1,6,3,,,,,,,2,0,Completed,2.1,1.72,2.19,1.76,2.3,1.76,2.14,1.7
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Van De Zandschulp B.,Carreno Busta P.,31,18,1294,2135,6,7,7,6,6,3,,,,,2,1,Completed,3.2,1.36,3.15,1.41,3.24,1.41,3.05,1.37
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,1st Round,3,Korda S.,Opelka R.,30,17,1301,2465,6,3,7,5,,,,,,,2,0,Completed,1.66,2.2,1.69,2.31,1.75,2.42,1.65,2.23
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Rublev A.,Draper J.,8,121,4025,544,2,6,6,4,7,5,,,,,2,1,Completed,1.14,5.5,1.15,6.36,1.17,6.8,1.14,5.61
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Djokovic N.,Monfils G.,1,21,8400,1745,6,3,6,2,,,,,,,2,0,Completed,1.2,4.5,1.21,5.01,1.23,5.03,1.2,4.61
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Murray A.,Shapovalov D.,78,16,783,2671,6,1,3,6,6,2,,,,,2,1,Completed,2.62,1.5,2.87,1.48,2.9,1.54,2.68,1.47
+28,Madrid,Mutua Madrid Open,03/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Alcaraz C.,Basilashvili N.,9,27,3818,1583,6,3,7,5,,,,,,,2,0,Completed,1.08,8,1.11,8.11,1.12,8.5,1.09,7.36
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Evans D.,Bautista Agut R.,36,19,1242,1993,6,3,5,7,7,6,,,,,2,1,Completed,3.5,1.3,3.58,1.34,3.77,1.35,3.47,1.3
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Lajovic D.,Ruud C.,77,7,801,4110,7,6,2,6,6,4,,,,,2,1,Completed,6,1.12,6.04,1.16,6.5,1.17,5.59,1.14
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Zverev A.,Cilic M.,3,24,7420,1695,4,6,6,4,6,4,,,,,2,1,Completed,1.16,5,1.2,5.17,1.27,5.5,1.19,4.77
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Norrie C.,Isner J.,11,23,3335,1706,6,4,6,7,6,4,,,,,2,1,Completed,1.66,2.2,1.73,2.24,1.8,2.28,1.7,2.16
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Nadal R.,Kecmanovic M.,4,32,6435,1291,6,1,7,6,,,,,,,2,0,Completed,1.33,3.4,1.33,3.64,1.35,3.75,1.31,3.42
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Hurkacz H.,Davidovich Fokina A.,14,29,3008,1470,6,4,4,6,7,6,,,,,2,1,Completed,2.1,1.72,2.26,1.72,2.26,1.8,2.14,1.7
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Goffin D.,Van De Zandschulp B.,60,31,913,1294,6,4,6,2,,,,,,,2,0,Completed,2.1,1.72,2.09,1.83,2.2,1.88,2.07,1.76
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Dimitrov G.,Schwartzman D.,20,15,1750,2805,6,0,6,3,,,,,,,2,0,Completed,2.5,1.53,2.4,1.61,2.5,1.65,2.39,1.57
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Musetti L.,Korda S.,63,30,896,1301,6,4,6,3,,,,,,,2,0,Completed,2.62,1.5,2.55,1.58,2.96,1.58,2.61,1.49
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Sinner J.,De Minaur A.,12,22,3015,1736,6,4,6,1,,,,,,,2,0,Completed,1.44,2.75,1.49,2.83,1.5,2.92,1.45,2.75
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Auger-Aliassime F.,Garin C.,10,39,3625,1168,6,3,6,0,,,,,,,2,0,Completed,1.5,2.62,1.55,2.65,1.55,2.96,1.49,2.6
+28,Madrid,Mutua Madrid Open,04/05/2022,Masters 1000,Outdoor,Clay,2nd Round,3,Tsitsipas S.,Pouille L.,5,174,5690,338,6,3,6,4,,,,,,,2,0,Completed,1.06,10,1.07,11.28,1.07,15,1.05,10.21
+28,Madrid,Mutua Madrid Open,05/05/2022,Masters 1000,Outdoor,Clay,3rd Round,3,Djokovic N.,Murray A.,1,78,8400,783,,,,,,,,,,,,,Walkover,1.12,6,1.16,6.26,1.17,6.4,1.14,5.63
+28,Madrid,Mutua Madrid Open,05/05/2022,Masters 1000,Outdoor,Clay,3rd Round,3,Rublev A.,Evans D.,8,36,4025,1242,7,6,7,5,,,,,,,2,0,Completed,1.22,4.33,1.21,5.05,1.25,5.05,1.22,4.33
+28,Madrid,Mutua Madrid Open,05/05/2022,Masters 1000,Outdoor,Clay,3rd Round,3,Hurkacz H.,Lajovic D.,14,77,3008,801,7,5,6,3,,,,,,,2,0,Completed,1.28,3.75,1.32,3.77,1.32,4,1.29,3.62
+28,Madrid,Mutua Madrid Open,05/05/2022,Masters 1000,Outdoor,Clay,3rd Round,3,Zverev A.,Musetti L.,3,63,7420,896,6,3,1,0,,,,,,,1,0,Retired,1.28,3.75,1.29,3.97,1.3,4.02,1.27,3.79
+28,Madrid,Mutua Madrid Open,05/05/2022,Masters 1000,Outdoor,Clay,3rd Round,3,Nadal R.,Goffin D.,4,60,6435,913,6,3,5,7,7,6,,,,,2,1,Completed,1.12,6,1.11,7.95,1.15,7.95,1.11,6.77
+28,Madrid,Mutua Madrid Open,05/05/2022,Masters 1000,Outdoor,Clay,3rd Round,3,Auger-Aliassime F.,Sinner J.,10,12,3625,3015,6,1,6,2,,,,,,,2,0,Completed,2.37,1.57,2.4,1.65,2.54,1.65,2.39,1.58
+28,Madrid,Mutua Madrid Open,05/05/2022,Masters 1000,Outdoor,Clay,3rd Round,3,Tsitsipas S.,Dimitrov G.,5,20,5690,1750,6,3,6,4,,,,,,,2,0,Completed,1.3,3.5,1.33,3.64,1.34,3.64,1.31,3.43
+28,Madrid,Mutua Madrid Open,05/05/2022,Masters 1000,Outdoor,Clay,3rd Round,3,Alcaraz C.,Norrie C.,9,11,3818,3335,6,4,6,7,6,3,,,,,2,1,Completed,1.16,5,1.14,6.66,1.22,6.69,1.15,5.5
+28,Madrid,Mutua Madrid Open,06/05/2022,Masters 1000,Outdoor,Clay,Quarterfinals,3,Djokovic N.,Hurkacz H.,1,14,8400,3008,6,3,6,4,,,,,,,2,0,Completed,1.3,3.5,1.3,3.96,1.32,3.96,1.28,3.65
+28,Madrid,Mutua Madrid Open,06/05/2022,Masters 1000,Outdoor,Clay,Quarterfinals,3,Alcaraz C.,Nadal R.,9,4,3818,6435,6,2,1,6,6,3,,,,,2,1,Completed,1.8,2,1.84,2.08,1.95,2.08,1.85,1.96
+28,Madrid,Mutua Madrid Open,06/05/2022,Masters 1000,Outdoor,Clay,Quarterfinals,3,Tsitsipas S.,Rublev A.,5,8,5690,4025,6,3,2,6,6,4,,,,,2,1,Completed,1.4,3,1.4,3.22,1.42,3.44,1.37,3.12
+28,Madrid,Mutua Madrid Open,06/05/2022,Masters 1000,Outdoor,Clay,Quarterfinals,3,Zverev A.,Auger-Aliassime F.,3,10,7420,3625,6,3,7,5,,,,,,,2,0,Completed,1.5,2.62,1.49,2.85,1.54,2.85,1.48,2.65
+28,Madrid,Mutua Madrid Open,07/05/2022,Masters 1000,Outdoor,Clay,Semifinals,3,Alcaraz C.,Djokovic N.,9,1,3818,8400,6,7,7,5,7,6,,,,,2,1,Completed,2.1,1.72,2.13,1.8,2.28,1.85,2.09,1.76
+28,Madrid,Mutua Madrid Open,07/05/2022,Masters 1000,Outdoor,Clay,Semifinals,3,Zverev A.,Tsitsipas S.,3,5,7420,5690,6,4,3,6,6,2,,,,,2,1,Completed,2.3,1.61,2.36,1.64,2.53,1.67,2.34,1.6
+28,Madrid,Mutua Madrid Open,08/05/2022,Masters 1000,Outdoor,Clay,The Final,3,Alcaraz C.,Zverev A.,9,3,3818,7420,6,3,6,1,,,,,,,2,0,Completed,1.53,2.5,1.65,2.39,1.66,2.75,1.54,2.51

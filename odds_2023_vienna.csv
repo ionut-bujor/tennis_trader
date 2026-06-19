@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+60,Vienna,Vienna Open,23/10/2023,ATP500,Indoor,Hard,1st Round,3,Lehecka J.,Wolf J.J.,31,59,1357,895,6,4,6,4,,,,,,,2,0,Completed,2.1,1.73,1.89,1.99,2.15,1.99,2.01,1.79
+60,Vienna,Vienna Open,23/10/2023,ATP500,Indoor,Hard,1st Round,3,Arnaldi M.,Ramos-Vinolas A.,46,93,1000,669,7,6,7,6,,,,,,,2,0,Completed,1.4,3,1.46,2.9,1.46,3,1.43,2.78
+60,Vienna,Vienna Open,23/10/2023,ATP500,Indoor,Hard,1st Round,3,Khachanov K.,Safiullin R.,16,43,2340,1027,6,4,6,4,,,,,,,2,0,Completed,1.8,2,1.74,2.21,1.86,2.22,1.74,2.08
+60,Vienna,Vienna Open,23/10/2023,ATP500,Indoor,Hard,1st Round,3,Zverev A.,Ofner S.,10,44,3460,1015,6,4,6,1,,,,,,,2,0,Completed,1.17,5,1.17,5.64,1.18,5.64,1.16,5.11
+60,Vienna,Vienna Open,23/10/2023,ATP500,Indoor,Hard,1st Round,3,Norrie C.,Misolic F.,18,169,1985,376,7,6,4,6,6,3,,,,,2,1,Completed,1.4,3,1.41,3.12,1.47,3.12,1.4,2.9
+60,Vienna,Vienna Open,24/10/2023,ATP500,Indoor,Hard,1st Round,3,Paul T.,Muller A.,12,84,2775,701,6,3,6,1,,,,,,,2,0,Completed,1.22,4.33,1.25,4.39,1.25,4.39,1.22,4.12
+60,Vienna,Vienna Open,24/10/2023,ATP500,Indoor,Hard,1st Round,3,Rublev A.,Popyrin A.,5,39,4765,1110,7,6,6,4,,,,,,,2,0,Completed,1.2,4.5,1.18,5.49,1.21,5.49,1.17,4.89
+60,Vienna,Vienna Open,24/10/2023,ATP500,Indoor,Hard,1st Round,3,Machac T.,Vukic A.,74,56,755,927,6,3,6,1,,,,,,,2,0,Completed,1.4,3,1.39,3.21,1.44,3.21,1.39,2.97
+60,Vienna,Vienna Open,24/10/2023,ATP500,Indoor,Hard,1st Round,3,Tiafoe F.,Evans D.,14,35,2400,1266,1,4,,,,,,,,,0,0,Retired,1.62,2.3,1.75,2.18,1.75,2.32,1.68,2.18
+60,Vienna,Vienna Open,24/10/2023,ATP500,Indoor,Hard,1st Round,3,Tsitsipas S.,Thiem D.,7,99,4300,618,7,6,6,4,,,,,,,2,0,Completed,1.36,3.2,1.33,3.62,1.38,3.78,1.33,3.3
+60,Vienna,Vienna Open,24/10/2023,ATP500,Indoor,Hard,1st Round,3,Sonego L.,Cerundolo F.,52,21,935,1680,6,4,5,7,6,2,,,,,2,1,Completed,1.73,2.1,1.73,2.22,1.79,2.24,1.71,2.13
+60,Vienna,Vienna Open,24/10/2023,ATP500,Indoor,Hard,1st Round,3,Dimitrov G.,Musetti L.,17,22,2195,1640,6,3,6,4,,,,,,,2,0,Completed,1.36,3.2,1.33,3.6,1.36,3.6,1.33,3.26
+60,Vienna,Vienna Open,25/10/2023,ATP500,Indoor,Hard,1st Round,3,Monfils G.,Altmaier D.,89,47,682,961,6,4,6,4,,,,,,,2,0,Completed,1.4,3,1.38,3.26,1.47,3.34,1.39,2.99
+60,Vienna,Vienna Open,25/10/2023,ATP500,Indoor,Hard,1st Round,3,Gojo B.,Karatsev A.,77,37,741,1213,6,3,6,3,,,,,,,2,0,Completed,2,1.8,2.03,1.87,2.12,1.87,1.98,1.81
+60,Vienna,Vienna Open,25/10/2023,ATP500,Indoor,Hard,1st Round,3,Medvedev D.,Fils A.,3,38,7355,1203,6,4,6,2,,,,,,,2,0,Completed,1.14,5.5,1.18,5.53,1.18,6,1.15,5.28
+60,Vienna,Vienna Open,25/10/2023,ATP500,Indoor,Hard,1st Round,3,Sinner J.,Shelton B.,4,15,5000,2355,7,6,7,5,,,,,,,2,0,Completed,1.25,4,1.28,4.04,1.3,4.04,1.25,3.84
+60,Vienna,Vienna Open,25/10/2023,ATP500,Indoor,Hard,2nd Round,3,Khachanov K.,Lehecka J.,16,31,2340,1357,6,3,6,1,,,,,,,2,0,Completed,1.53,2.5,1.54,2.66,1.54,2.66,1.51,2.54
+60,Vienna,Vienna Open,25/10/2023,ATP500,Indoor,Hard,2nd Round,3,Zverev A.,Norrie C.,10,18,3460,1985,6,2,6,4,,,,,,,2,0,Completed,1.25,4,1.25,4.48,1.28,4.48,1.24,4.05
+60,Vienna,Vienna Open,26/10/2023,ATP500,Indoor,Hard,2nd Round,3,Rublev A.,Arnaldi M.,5,46,4765,1000,7,5,6,3,,,,,,,2,0,Completed,1.14,5.5,1.17,5.89,1.21,5.91,1.16,5.13
+60,Vienna,Vienna Open,26/10/2023,ATP500,Indoor,Hard,2nd Round,3,Gojo B.,Paul T.,77,12,741,2775,6,3,6,4,,,,,,,2,0,Completed,3.4,1.33,3.39,1.37,3.5,1.37,3.27,1.33
+60,Vienna,Vienna Open,26/10/2023,ATP500,Indoor,Hard,2nd Round,3,Medvedev D.,Dimitrov G.,3,17,7355,2195,3,6,6,2,6,4,,,,,2,1,Completed,1.29,3.75,1.29,4,1.33,4.3,1.27,3.72
+60,Vienna,Vienna Open,26/10/2023,ATP500,Indoor,Hard,2nd Round,3,Tsitsipas S.,Machac T.,7,74,4300,755,6,3,4,6,7,5,,,,,2,1,Completed,1.44,2.75,1.52,2.74,1.53,2.81,1.47,2.65
+60,Vienna,Vienna Open,26/10/2023,ATP500,Indoor,Hard,2nd Round,3,Sinner J.,Sonego L.,4,52,5000,935,6,2,6,4,,,,,,,2,0,Completed,1.13,6,1.15,6.59,1.18,6.81,1.13,5.76
+60,Vienna,Vienna Open,26/10/2023,ATP500,Indoor,Hard,2nd Round,3,Tiafoe F.,Monfils G.,14,89,2400,682,5,7,6,1,6,4,,,,,2,1,Completed,2,1.8,1.98,1.93,2.02,1.93,1.95,1.84
+60,Vienna,Vienna Open,27/10/2023,ATP500,Indoor,Hard,Quarterfinals,3,Medvedev D.,Khachanov K.,3,16,7355,2340,6,3,3,6,6,3,,,,,2,1,Completed,1.2,4.5,1.25,4.5,1.26,4.54,1.22,4.23
+60,Vienna,Vienna Open,27/10/2023,ATP500,Indoor,Hard,Quarterfinals,3,Tsitsipas S.,Gojo B.,7,77,4300,741,7,6,7,5,,,,,,,2,0,Completed,1.4,3,1.43,3.06,1.46,3.21,1.4,2.93
+60,Vienna,Vienna Open,27/10/2023,ATP500,Indoor,Hard,Quarterfinals,3,Rublev A.,Zverev A.,5,10,4765,3460,6,1,6,7,6,3,,,,,2,1,Completed,2,1.8,1.96,1.94,2.04,1.94,1.99,1.82
+60,Vienna,Vienna Open,27/10/2023,ATP500,Indoor,Hard,Quarterfinals,3,Sinner J.,Tiafoe F.,4,14,5000,2400,6,3,6,4,,,,,,,2,0,Completed,1.22,4.33,1.2,5.16,1.23,5.33,1.2,4.51
+60,Vienna,Vienna Open,28/10/2023,ATP500,Indoor,Hard,Semifinals,3,Medvedev D.,Tsitsipas S.,3,7,7355,4300,6,4,7,6,,,,,,,2,0,Completed,1.33,3.4,1.39,3.3,1.39,3.57,1.33,3.28
+60,Vienna,Vienna Open,28/10/2023,ATP500,Indoor,Hard,Semifinals,3,Sinner J.,Rublev A.,4,5,5000,4765,7,5,7,6,,,,,,,2,0,Completed,1.5,2.63,1.53,2.68,1.53,2.81,1.48,2.63
+60,Vienna,Vienna Open,29/10/2023,ATP500,Indoor,Hard,The Final,3,Sinner J.,Medvedev D.,4,3,5000,7355,7,6,4,6,6,3,,,,,2,1,Completed,2,1.8,2,1.91,2.09,1.91,1.98,1.82
